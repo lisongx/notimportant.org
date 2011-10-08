@@ -1,11 +1,20 @@
 body {
     color: #666;
+    font: 13.34px helvetica, arial, clean, sans-serif;
+    text-align: center;
 }
 header li {
-    list-style-type: none;
     display: inline;
+}
+#home li{
+    list-style-type: none;
 }
 a:link {
     text-decoration: none;
     border-bottom: 1px dotted #ccc;
+    color: #54C7D5;
+}
+a:visited {
+    text-decoration: none;
+    color: #6B9FBA;
 }
