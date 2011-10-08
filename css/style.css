@@ -1,7 +1,10 @@
 body {
-    background:##d0e4f2;
+    background: #34b03a;
+    color: #666;
 }
 a:link {
-    color:#193441;
-    background:#85a5cc;
+    color: #c0eeff;
+    background: #2d9933;
+    text-decoration: none;
+    border-bottom: 1px dotted #ccc;
 }
