@@ -1,6 +1,7 @@
 ---
 layout: default
 title: About
+permalink: /about/index.html
 ---
 
 About
@@ -16,8 +17,12 @@ I use
     * Textmate
     * Chrome Dev
     * iTerm2
+    * Dropbox
 
 My favorite
 ---------------
+* 薯片: 天使土豆片
+* 
 * writer: Chuck Palahniuk
 * tv series: LOST
+* film director: David Fincher
