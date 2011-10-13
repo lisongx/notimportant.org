@@ -1,6 +1,7 @@
 body {
     color: #666;
-    font: 13.34px helvetica, arial, clean, sans-serif;
+    font: 13.34px;
+    font-family: 'Open Sans', helvetica, arial, sans-serif;
 }
 header li {
     display: inline;
