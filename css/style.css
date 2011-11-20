@@ -2,6 +2,7 @@ body {
     color: #666;
     font: 13.34px;
     font-family: 'Open Sans', helvetica, arial, sans-serif;
+    background-image: url(http://subtlepatterns.com/images/bgnoise.gif);
 }
 header li {
     display: inline;
