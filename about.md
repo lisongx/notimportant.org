@@ -21,8 +21,6 @@ I use
 
 My favorite
 ---------------
-* 薯片: 天使土豆片
-* 
 * writer: Chuck Palahniuk
 * tv series: LOST
 * film director: David Fincher

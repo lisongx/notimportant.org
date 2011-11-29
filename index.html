@@ -4,12 +4,25 @@ title: Sean Lee
 ---
 
 <section id="home">
-    <h1>Blog Posts</h1>
+    <h1>Posts</h1>
     <ul class="posts">
         {% for post in site.posts %}
       <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
         {% endfor %}
     </ul>
 </section>
-  </ul>
-</div>
+
+<section id="projects">
+    <h1>Projects</h1>
+    <ul>
+      <li>
+          <a href="#">doubanIMDb</a>
+          <p>在豆瓣的电影页显示IMDb评分</p>
+      </li>
+      <li>
+          <a href="#">Bookit</a>
+          <p>快捷的获得所在大学的图书馆馆藏信息</p>
+      </li>
+    </ul>
+</section>
+
