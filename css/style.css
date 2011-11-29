@@ -1,21 +1,83 @@
-body {
-    color: #666;
-    font: 13.34px;
-    font-family: 'Open Sans', helvetica, arial, sans-serif;
-    background-image: url(http://subtlepatterns.com/images/bgnoise.gif);
+html {
+    background-image: url(/img/pattern.png);
 }
+
+::selection { 
+    background:red; 
+    color:white; 
+}
+::-moz-selection { 
+    background:red; 
+    color:white; 
+}
+
+
+body {
+    color: #222;
+    font-size: 16px;
+    font-family: 'Open Sans', helvetica, arial, sans-serif;
+    padding-top: 10px;
+}
+
+#container {
+    margin: 0 auto;
+    width: 560px;  
+}
+
 header li {
     display: inline;
 }
-#home li{
-    list-style-type: none;
+/*footer*/
+#container > footer {
+    border-top: 1px solid #CCC;
+    clear: both;
+    margin: 20px 0;
 }
-a:link {
-    text-decoration: none;
-    border-bottom: 1px dotted #ccc;
-    color: #54C7D5;
+/*links*/
+a {
+  color: #c7260d;
+  text-decoration: none;
 }
 a:visited {
-    text-decoration: none;
-    color: #6B9FBA;
+  color: #c7260d;
+  text-decoration: none;
 }
+a:active {
+  color: #c7260d;
+  text-decoration: none;
+}
+a:hover {
+  color: #e7463d;
+  text-decoration: underline;
+}
+/*icons*/
+p#rellinks {
+    height: 30px;
+    text-align: center;
+}
+ 
+p#rellinks a {
+    width: 16px;
+    height: 16px;
+    display: inline-block;
+    margin-top: 12px;
+}
+ 
+p#rellinks a img {
+    opacity: 0.5;
+}
+ 
+p#rellinks a:hover img {
+    opacity: 1.0;
+}
+
+/*quote*/
+blockquote {
+    margin: 0 0 20px 32px;
+    color: #333;
+    border-left: 4px #ccc solid;
+    padding-left: 6px;
+    font-style:italic
+}
+
+
