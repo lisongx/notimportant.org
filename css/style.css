@@ -24,6 +24,10 @@ body {
     width: 560px;  
 }
 
+article {
+    line-height: 1.5em;    
+}
+
 header li {
     display: inline;
 }
