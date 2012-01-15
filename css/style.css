@@ -39,7 +39,7 @@ header li {
 }
 /*links*/
 a {
-  color: ##D05A6E;
+  color: #D05A6E;
   text-decoration: none;
 }
 a:visited {
@@ -80,6 +80,13 @@ p#rellinks a:hover img {
     color:black;
     
 }
+
+/*typo*/
+.footnotes {
+    font-size: 0.75em;
+    color: #5D5D5D;
+}
+
 /*quote*/
 blockquote {
     margin: 0 0 20px 32px;
