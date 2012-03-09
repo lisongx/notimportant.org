@@ -11,7 +11,7 @@ I use
 ------
 * Hardware
 
-    * Moto Milestone 1
+    * Nokia N79
     * Kindle Keyboard
     * Macbook Pro Early 2011
 
@@ -21,7 +21,8 @@ I use
     * Chrome Dev
     * iTerm2
     * Dropbox
-	* zsh (and the great [oh-my-zsh][ohmyzsh])
+    * zsh (and the great [oh-my-zsh][ohmyzsh])
+    * DuckDuckGo
 
 [ohmyzsh]: https://github.com/robbyrussell/oh-my-zsh
 
