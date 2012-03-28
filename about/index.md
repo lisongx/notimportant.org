@@ -23,6 +23,7 @@ I use
     * Dropbox
     * zsh (and the great [oh-my-zsh][ohmyzsh])
     * DuckDuckGo
+    * iPython ( my other shell)
 
 [ohmyzsh]: https://github.com/robbyrussell/oh-my-zsh
 
