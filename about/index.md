@@ -36,7 +36,7 @@ I use
 
 * Github
 
-	整个站点由[Github Pages][githubpages]托管，你可以在这个[Git仓库][gitrepo]看到所有文档。
+	整个站点由[Github Pages][githubpages]托管，你可以在这个[Git仓库][gitrepo]看到所有代码。
 
 * Jekyll
 
