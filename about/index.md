@@ -19,6 +19,7 @@ I use
 
     * Textmate
     * Chrome Dev
+    * Alfred
     * iTerm2
     * Dropbox
     * zsh (and the great [oh-my-zsh][ohmyzsh])
