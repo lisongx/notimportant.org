@@ -13,18 +13,16 @@
 ## Skills
 
 * Unix
-	
-	使用Ubuntu半年和Mac OS X一年，熟悉Unix环境，习惯CLI(终端是我MAC下的Finder)。目前我在使用zsh（加上ohmyzsh），在好奇下最近开始尝试ipython。
+    
+	使用Ubuntu半年和Mac OS X一年，熟悉Unix环境，适应CLI。
 	
 * HTTP
+    
+	对HTTP有基本的理解，Stateless/Methods/Headers/Cookies，喜欢[requests](http://docs.python-requests.org/en/latest/index.html)。
 	
-	看得懂HTTP message, 知道它的Stateless性，了解Cookies、HTTP method和Status Code，喜欢[requests](http://docs.python-requests.org/en/latest/index.html)。
-	
-* HTML, CSS, Javascript, DOM
+* HTML, CSS, Javascript(jQuery), DOM
 	
 	有基本的前端技能。个人主页 [NotImportant][notimportant] 在github上运行。
-	
-	在个人web项目中使用过html5boilerplate，Twitter Bootstrap。
 	
 		
 * Python
@@ -40,20 +38,18 @@
 	
 * Database
  
-	会基本SQL查询语句，在django开发过程中使用过sqlite，mysql。	
-	准备尝试mongodb。
-
+    在开发web应用过程中使用过sqlite,mongodb。会基本的SQL语句
 
 	
 
 
 ## 小项目
 
-* 2011: [Bookit](http://bookitapp.org/)
+* 2011: [Bookit][bookit]
  
  	Bookit是更直观的图书馆查询应用，综合图书的豆瓣信息和图书馆的馆藏信息。
  	
- 	我开发了服务器端加载图书馆数据的脚本，[Bookit for Chrome][bookit-for-chrome]，和[Bookit Web][bookit-web]。Android app和Windows 7 app由另外两位童鞋开发:)
+ 	我开发了服务器端加载图书馆数据的脚本，[Bookit for Chrome][bookit-for-chrome]，和[Bookit Web][bookit-web](Early Beta)。Android app和Windows 7 app由另外两位童鞋开发:)
  
 * 2011: [doubanIMDb][doubanIMDb]
 	
@@ -77,7 +73,7 @@
  
 	我是羞羞的发起人之一。
 	
-	这是根据地在西电的某个地下组织。	大概是一堆人干着自己喜欢的事。
+	这是根据地在西电的某个地下组织。大概是一堆人干着自己喜欢的事。
 	
 	我们有一个Debian VPS，上面运行着：
 	
@@ -91,7 +87,7 @@
 	我义务地管理着团体的经费。
 
 
-
+[bookit]: http://bookitapp.org/
 [xiuxiude]: http://xiuxiu.de
 [movielines]: http://movie.xiuxiu.de
 [imdbdouban]: http://imdb.notimportant.org/
@@ -128,7 +124,7 @@
 
 2010年10月至今
 
-西电开源社区是一个以Linux为基础的以技术交流和项目合作为主要活动的开源社区，是一群hacker和geek讨论、交流技术的地方，社区的精神是hacker精神，社区目前也是由此逐步成长而来。
+> 西电开源社区是一个以Linux为基础的以技术交流和项目合作为主要活动的开源社区，是一群hacker和geek讨论、交流技术的地方，社区的精神是hacker精神，社区目前也是由此逐步成长而来。
 
 ### 参与/发起的社区项目
 
@@ -159,13 +155,20 @@
 
 ## 其他
 
-我爱吃[肉丸糊辣汤][hulatang]。	
+我爱吃 [肉丸糊辣汤][hulatang]。	
 
-我喜欢[《搏击俱乐部》][fightclub]（虽然电影比小说更好）、[《黑暗骑士》][tdk]和 [Weezer][weezer]。
+我喜欢 [恰克·帕拉尼克][chuck] 、[伍迪·艾伦][woody] 和 [Weezer][weezer]。
 
+我的电影TOP5
 
+* 搏击俱乐部
+* 黑暗骑士
+* 安妮霍尔
+* 在云端
+* 早餐俱乐部
 
-
+[woody]: http://movie.douban.com/celebrity/1054430/
+[chuck]: http://zh.wikipedia.org/wiki/%E6%81%B0%E5%85%8B%C2%B7%E5%B8%95%E6%8B%89%E5%B0%BC%E5%85%8B
 [hulatang]: http://www.douban.com/group/hulatang/
 [fightclub]: http://book.douban.com/subject/3821057/
 [tdk]: http://movie.douban.com/subject/1851857/
