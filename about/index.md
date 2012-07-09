@@ -11,7 +11,7 @@ I use
 ------
 * Hardware
 
-    * Nokia N79
+    * Motorola Fire
     * Kindle Keyboard
     * Macbook Pro Early 2011
 
