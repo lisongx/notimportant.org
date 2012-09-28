@@ -1,3 +1,5 @@
+@import url(http://fonts.googleapis.com/css?family=Signika:400,700);
+
 html {
 /*    background-image: url(/img/pattern.png);*/
     background: #F0F0F0 url(/img/colors.png) repeat-y left bottom;
@@ -16,10 +18,13 @@ html {
 body {
     color: #222;
     font-size: 16px;
-    font-family: Futura, 'Bitter', helvetica, arial, sans-serif;
+    font-family: Futura, helvetica, arial, sans-serif;
     padding-top: 10px;
 }
 
+h1, h2, h3, h4 {
+    font-family: 'Signika', helvetica, arial, sans-serif;
+}
 #container {
     margin: 0 auto;
     width: 560px;  

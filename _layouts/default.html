@@ -2,24 +2,18 @@
 <html lang="zh">
 <head>
     <meta charset="utf-8">
-    <title>{{ page.title }}</title>
+    <title>{% if page.title %}{{ page.title }} · {% endif %}{{ page.title }}</title>
     <meta name="author" content="Sean Lee">
     <!-- le feed -->
     <link href="http://feeds.feedburner.com/notimportant" rel="alternate" title="Not Important" type="application/atom+xml" />
-    
-    <!-- google web font -->
-    <link href='http://fonts.googleapis.com/css?family=Bitter' rel='stylesheet' type='text/css'>
-    
-    <!-- adobe typekit -->
-    <script type="text/javascript" src="//use.typekit.net/oyq7usz.js"></script>
-    <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
-    
-    <!-- le js -->
-    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>    
+
     <!--le css -->
     <!-- <link rel="stylesheet" href="/css/reset.css" type="text/css" /> -->
     <link rel="stylesheet" href="/css/style.css" type="text/css" />
+
     
+    <!-- le js -->
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>        
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
@@ -55,7 +49,7 @@
     </header>
         {{ content }}
     <footer>
-        <p>&copy; Copyright 2011, Sean Lee 
+        <p>&copy; Copyright 2012, Sean Lee 
         <a rel="license" title="Licensed under a Creative Commons Attributes license" href="http://creativecommons.org/licenses/by/3.0/deed.zh">CC BY 3.0</a></p>
     </footer>
 </div>
