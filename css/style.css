@@ -16,7 +16,7 @@ html {
 body {
     color: #222;
     font-size: 16px;
-    font-family: 'Bitter', helvetica, arial, sans-serif;
+    font-family: Futura, 'Bitter', helvetica, arial, sans-serif;
     padding-top: 10px;
 }
 
@@ -26,11 +26,11 @@ body {
 }
 
 article {
-    line-height: 1.5em;    
+    line-height: 1.5em;
 }
 
 header li {
-    display: inline;
+  display: inline;
 }
 /*footer*/
 #container > footer {
