@@ -27,7 +27,7 @@ h1, h2, h3, h4 {
 }
 #container {
     margin: 0 auto;
-    width: 560px;  
+    width: 620px;  
 }
 
 article {
@@ -101,5 +101,48 @@ blockquote {
     padding-left: 6px;
     font-style:italic
 }
+
+/*code*/
+/*.post code {
+  border: 1px solid #ddd;
+  background-color: #eef;
+  font-size: 85%;
+  padding: 0 .2em;
+}
+
+.post pre code {
+   border: none;
+}*/
+
+code, pre {
+    font-family: Monaco, Andale Mono, Courier New, monospace;
+    font-size: 85%;
+}
+code {
+    background-color: #fee9cc;
+    color: rgba(0, 0, 0, 0.75);
+    padding: 1px 3px;
+    font-size: 12px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+}
+pre {
+    display: block;
+    padding: 14px;
+    margin: 0 0 18px;
+    line-height: 16px;
+    font-size: 11px;
+    border: 1px solid #d9d9d9;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+}
+pre code {
+    background-color: #fff;
+    color:#737373;
+    font-size: 11px;
+    padding: 0;
+}
+
 
 
