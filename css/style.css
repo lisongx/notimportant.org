@@ -1,4 +1,4 @@
-@import url(http://fonts.googleapis.com/css?family=Signika:400,700);
+@import url(http://fonts.googleapis.com/css?family=Lato:300,400,900italic);
 
 html {
 /*    background-image: url(/img/pattern.png);*/
@@ -18,12 +18,15 @@ html {
 body {
     color: #222;
     font-size: 16px;
-    font-family: Futura, helvetica, arial, sans-serif;
+    font-family: "Lato", helvetica, arial, sans-serif;
     padding-top: 10px;
 }
 
 h1, h2, h3, h4 {
-    font-family: 'Signika', helvetica, arial, sans-serif;
+    font-family:"Lato", helvetica, arial, sans-serif;
+    font-weight: 900px;
+    font-style: italic;
+    letter-spacing: -2px; 
 }
 #container {
     margin: 0 auto;
