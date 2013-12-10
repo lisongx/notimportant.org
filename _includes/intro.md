@@ -1,6 +1,6 @@
 I'm currently an undergraduate student at [Xidian Unversity][xidian].
 
-Mostly I'm doing Web Development with Python and Javascript, both front-end and back-end, and I'm a big fan of [Web Components][web_components]. You can look all my open source code at [GitHub][github].
+Mostly I'm doing Web Development with Python and Javascript, both front-end and back-end, and I'm a big fan of [Web Components][web_components]. You can read all my open source code at [GitHub][github].
 
 I like learning new things, from [Funtional Programming][progfun] to [Astrobiology][astrobiology].
 
