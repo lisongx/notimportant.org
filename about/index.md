@@ -6,14 +6,15 @@ title: About
 About
 =====
 
+### I use
 
-I use
-------
+
 * Hardware
 
-    * Motorola Fire
+    * iPhone 4
     * Kindle Keyboard
     * Macbook Pro Early 2011
+    * Konstruktor
 
 * Software
 
@@ -24,6 +25,7 @@ I use
     * Dropbox
     * zsh (and the great [oh-my-zsh][ohmyzsh])
     * DuckDuckGo
-    * iPython ( my other shell)
+    * iPython
+    * SuperCollider
 
 [ohmyzsh]: https://github.com/robbyrussell/oh-my-zsh

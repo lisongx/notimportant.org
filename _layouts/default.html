@@ -4,6 +4,7 @@
     <meta charset="utf-8">
     <title>{% if page.title %}{{ page.title }} · {% endif %}{{ site.title }}</title>
     <meta name="author" content="Sean Lee">
+
     <!-- le feed -->
     <link href="http://feeds.feedburner.com/notimportant" rel="alternate" title="Not Important" type="application/atom+xml" />
 
@@ -13,7 +14,7 @@
 
     
     <!-- le js -->
-    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>        
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>        
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
@@ -34,7 +35,7 @@
         <a rel="me" title="Last.fm" href="http://www.last.fm/user/seansay/"><img alt="Last.fm" src="/img/icons/lastfm.png" width="16" height="16"></a>
         <a rel="me" title="Reddit" href="http://reddit.com/user/seansay"><img alt="Reddit" src="/img/icons/reddit.png" width="16" height="16"></a>
         <a rel="me" title="Twitter" href="http://twitter.com/seansay"><img alt="Twitter" src="/img/icons/twitter.png" width="16" height="16"></a>
-        <a rel="me" title="Wikipedia" href="http://zh.wikipedia.org/wiki/User:Seansay"><img alt="Wikipedia" src="/img/icons/wikipedia.png" width="16" height="16"></a>
+        <a rel="me" title="Wikipedia" href="https://zh.wikipedia.org/wiki/Special:%E7%94%A8%E6%88%B7%E8%B4%A1%E7%8C%AE/Seansay"><img alt="Wikipedia" src="/img/icons/wikipedia.png" width="16" height="16"></a>
         <a rel="me" title="Pinboard" href="http://pinboard.in/u:seansay"><img alt="Pinboard" src="/img/icons/pinboard.png" width="16" height="16"></a>
         
         </p>
@@ -49,25 +50,11 @@
     </header>
         {{ content }}
     <footer>
-        <p>&copy; Copyright 2012, Sean Lee 
+        <p>&copy; Copyright 2014, Sean Lee 
         <a rel="license" title="Licensed under a Creative Commons Attributes license" href="http://creativecommons.org/licenses/by/3.0/deed.zh">CC BY 3.0</a></p>
     </footer>
 </div>
 
-<!-- google analytics -->
-<script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-8230755-3']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-</script>
-<!-- end google analytics -->
+{% include ga.html %}
 </body>
 </html>
