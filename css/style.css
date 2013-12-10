@@ -64,6 +64,14 @@ a:hover {
   color: #e7463d;
   text-decoration: underline;
 }
+
+/* posts */
+
+/* fixed with so that the date looks nice*/
+#posts .date {
+  font-family:"Tahoma"
+}
+
 /*icons*/
 p#rellinks {
     height: 30px;
@@ -83,12 +91,6 @@ p#rellinks a img {
  
 p#rellinks a:hover img {
     opacity: 1.0;
-}
-
-/*tracks*/
-#tracks a {
-    color:black;
-    
 }
 
 /*typo*/
