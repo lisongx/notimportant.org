@@ -69,7 +69,7 @@ a:hover {
 
 /* fixed with so that the date looks nice*/
 #posts .date {
-  font-family:"Tahoma"
+  font-family:"Tahoma", "Lucida Console", Monaco, monospace
 }
 
 /*icons*/
