@@ -28,7 +28,7 @@ A Chrome Extension to help Coursera users to keep track of all the deadlines the
 
 ### [diumoo][diumoo_site]
 
-A sepcial [Douban.FM] client for OS X, besides the cross browser userscript [diumoo helper][diumoo_helper], I also name this project.
+A sepcial [Douban FM][douban_fm] client for OS X, besides the cross browser userscript [diumoo helper][diumoo_helper], I also name this project.
 
 [diumoo_site]: http://diumoo.net/
 [douban_fm]: http://douban.fm
