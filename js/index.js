@@ -7,14 +7,16 @@ $(document).ready(function() {
   var PAUSE_ICON_CLASS= "fa-pause";
 
   btn.on("click", function(){
-    if($(this).hasClass(PLAY_ICON_CLASS)) {
+    // cache object
+    var $this = $(this);
+    if($this.hasClass(PLAY_ICON_CLASS)) {
       cc.run(code);
-      $(this).removeClass(PLAY_ICON_CLASS);
-      $(this).addClass(PAUSE_ICON_CLASS);
+      $this.removeClass(PLAY_ICON_CLASS);
+      $this.addClass(PAUSE_ICON_CLASS);
     } else {
       cc.pause();
-      $(this).removeClass(PAUSE_ICON_CLASS);
-      $(this).addClass(PLAY_ICON_CLASS);
+      $this.removeClass(PAUSE_ICON_CLASS);
+      $this.addClass(PLAY_ICON_CLASS);
     }
   });
 });
