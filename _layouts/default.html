@@ -9,23 +9,23 @@
     <link href="http://feeds.feedburner.com/notimportant" rel="alternate" title="Not Important" type="application/atom+xml" />
 
     <!--le css -->
-    <!-- <link rel="stylesheet" href="/css/reset.css" type="text/css" /> -->
     <link rel="stylesheet" href="/css/style.css" type="text/css" />
-
-    
-    <!-- le js -->
-    <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>        
+    <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
 
+    <!-- favicon -->
     <link rel="shortcut icon" href="/favicon.ico" />
 </head>
 <body>
   <div id="container">
     <header>
         <hgroup>
-        <h1><a href="/">Not Important</a></h1>
+        <h1>
+          <a href="/">Not Important</a>
+          <i class="fa fa-play" id="audioBtn"></i>
+        </h1>
         <blockquote>Nothing of me is original. I am the combined effort of everybody I've ever known.</blockquote>
         </hgroup>
         <p id="rellinks">
@@ -54,6 +54,14 @@
         <a rel="license" title="Licensed under a Creative Commons Attributes license" href="http://creativecommons.org/licenses/by/3.0/deed.zh">CC BY 3.0</a></p>
     </footer>
 </div>
+
+<!-- js start -->
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js">
+</script>
+<script src="/js/libs/coffee-script.js"></script>
+<script src="/js/libs/coffee-collider.js"></script> 
+<script src="/js/index.js"></script>
+<!-- js end -->
 
 {% include ga.html %}
 </body>
