@@ -41,6 +41,12 @@ article {
 header li {
   display: inline;
 }
+
+/*nav*/
+nav li {
+  margin-right: 10px;
+}
+
 /*footer*/
 #container > footer {
     border-top: 1px solid #CCC;
