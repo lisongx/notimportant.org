@@ -1,7 +1,6 @@
-
 $(document).ready(function() {
   var cc = new CoffeeCollider();
-  var code = "(-> SinOsc.ar(SinOsc.ar(8, 0, 10, MouseX.kr(400, 1000, 1)))).play()";
+  var code = "(-> Pan2.ar(SinOsc.ar(SinOsc.ar(MouseY.kr(4, 14, 1), 0, 10, MouseX.kr(400, 1000, 1))), SinOsc.kr(0.4), 0.05)).play()";
   var btn = $("#audioBtn");
   var PLAY_ICON_CLASS = "fa-play";
   var PAUSE_ICON_CLASS= "fa-pause";
