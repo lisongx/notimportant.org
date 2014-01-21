@@ -4,7 +4,7 @@ Mostly I'm doing Web Development with Python and Javascript, both front-end and 
 
 I like learning new things, from [Funtional Programming][progfun] to [Astrobiology][astrobiology].
 
-I'm also part of a local indie experimental music organization called [System Error][system_error], [making audiovisual through code][kunjinkao_video].
+I'm also part of a local indie experimental music organization called [System Error][system_error], [making audiovisual arts through code][kunjinkao_video].
 
 
 
