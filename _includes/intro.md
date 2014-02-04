@@ -1,17 +1,28 @@
-My name is Sean Lee, currently an undergraduate student at [Xidian Unversity][xidian].
+<img src="/img/sean2.jpg" alt="me, by Zila" width="350" style="float:right;margin:15px"/>
 
-Mostly I'm doing Web Development with Python and Javascript, both front-end and back-end, and I'm a big fan of [Web Components][web_components]. You can read all my open source code at [GitHub][github].
+## My name is Sean!
+
+Currently I'm an undergraduate student at [Xi'an][xian].
+
+Mostly I'm doing web development with Python and Javascript, both front-end and back-end, and I'm a big fan of [Web Components][web_components]. You can read all my open source code at [GitHub][github].
 
 I like learning new things, from [Funtional Programming][progfun] to [Astrobiology][astrobiology].
 
-I'm also part of a local indie experimental music organization called [System Error][system_error], [making audiovisual arts through code][kunjinkao_video].
+I'm also a member of [System Error][system_error], a local indie experimental music organization, making [audiovisual arts][kunjinkao_video] through code. We just release the 2nd Anniversary Compilation, you can buy this cd at [here][se2].
 
+Lately I've been focusing on shooting [photos][photos] with a toy camera, [kicking shuttlecock][jianzi], eating every [hulatang][] in the city, and learning how to build website [without banckends][nobackend].
 
+You can email me at <iseansay@gmail.com>.
 
-[xidian]: http://www.xidian.edu.cn/ 
+[xian]: http://en.wikipedia.org/wiki/Xi%27an
 [web_components]: http://www.w3.org/TR/components-intro/
 [github]: http://github.com/seansay
 [astrobiology]: /certificates/astrobio.pdf
 [progfun]: /certificates/progfun.pdf
 [system_error]: http://site.douban.com/System-error/
 [kunjinkao_video]: http://site.douban.com/kunjinkao/widget/videos/13803886/video/319234/
+[se2]: http://se2.kunjinkao.org/
+[photos]: http://photos.notimportant.org
+[jianzi]: http://instagram.com/p/islRPBPRjX/
+[hulatang]: http://instagram.com/p/gVHTDuPRgg/
+[nobackend]: http://nobackend.org/

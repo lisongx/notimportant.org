@@ -1,17 +1,16 @@
 @import url(http://fonts.googleapis.com/css?family=Lato:300,400,900italic);
 
 html {
-/*    background-image: url(/img/pattern.png);*/
     background: #F0F0F0 url(/img/colors.png) repeat-y left bottom;
 }
 
 ::selection { 
-    background:red; 
-    color:white; 
+    background: red; 
+    color: white; 
 }
 ::-moz-selection { 
-    background:red; 
-    color:white; 
+    background: red; 
+    color: white; 
 }
 
 
@@ -23,15 +22,20 @@ body {
 }
 
 h1 {
-    font-family:"Lato", helvetica, arial, sans-serif;
+    font-family: monospace, helvetica, arial, sans-serif;
     font-weight: 900px;
     font-style: italic;
     letter-spacing: -1px; 
 }
 
+h2 {
+    font-family: monospace, helvetica, arial, sans-serif;
+}
+
+
 #container {
     margin: 0 auto;
-    width: 620px;  
+    width: 700px;  
 }
 
 article {
