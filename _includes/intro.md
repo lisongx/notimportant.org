@@ -1,8 +1,8 @@
-<img src="/img/sean2.jpg" alt="me, by Zila" width="350" style="float:right;margin:15px"/>
+<img src="/img/sean2.jpg" alt="me, by Zila" width="350" style="float:right;margin:25px"/>
 
 ## My name is Sean!
 
-Currently I'm an undergraduate student at [Xi'an][xian].
+Currently an undergraduate student at [Xi'an][xian].
 
 Mostly I'm doing web development with Python and Javascript, both front-end and back-end, and I'm a big fan of [Web Components][web_components]. You can read all my open source code at [GitHub][github].
 
@@ -10,7 +10,7 @@ I like learning new things, from [Funtional Programming][progfun] to [Astrobiolo
 
 I'm also a member of [System Error][system_error], a local indie experimental music organization, making [audiovisual arts][kunjinkao_video] through code. We just release the 2nd Anniversary Compilation, you can buy this cd at [here][se2].
 
-Lately I've been focusing on shooting [photos][photos] with a toy camera, [kicking shuttlecock][jianzi], eating every [hulatang][] in the city, and learning how to build website [without banckends][nobackend].
+Lately I've been focusing on shooting [photos][photos] with a toy camera, [kicking shuttlecock][jianzi], eating every [hulatang][] in the city, and learning how to build web apps [without backend][nobackend].
 
 You can email me at <iseansay@gmail.com>.
 
