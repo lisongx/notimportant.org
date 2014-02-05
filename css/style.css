@@ -1,3 +1,5 @@
+@import url(http://fonts.googleapis.com/css?family=Alef);
+
 html {
     background: #F0F0F0 url(/img/colors.png) repeat-y left bottom;
 }
@@ -19,19 +21,18 @@ body {
   padding-top: 10px;  
 }
 
-h1 {
+header h1 {
   font-weight: 900px;
   font-style: italic;
   letter-spacing: -1px; 
 }
 
-h2 {
-  font-family: monospace;
+nav {
+  font-family: helvetica;
 }
 
-p {
-  font-family: monospace;
-  line-height: 1.2;
+#content {
+  font-family: "Alef", helvetica;
 }
 
 article {
