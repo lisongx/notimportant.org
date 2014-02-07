@@ -12,7 +12,7 @@ I'm also a member of [System Error][system_error], a local indie experimental mu
 
 Recentely I’ve been crazy for shooting [photos][photos] by a toy camera, [kicking shuttlecock][jianzi], eating every [hulatang][hulatang](a soup originated in Xi' an) in the city, and learning how to build web apps [without backend][nobackend].
 
-Please feel free to contact me by email me: <iseansay@gmail.com>.
+Contact: iseansay at gmail dot com
 
 [xian]: http://en.wikipedia.org/wiki/Xi%27an
 [web_components]: http://www.w3.org/TR/components-intro/
