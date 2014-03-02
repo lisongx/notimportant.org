@@ -60,15 +60,13 @@ header h1 a:hover {
 }
 
 /*nav*/
-nav li {
-  margin-right: 10px;
+nav {
+  border-top: 1px solid #CCC;
+  padding: 0.5em 0;
 }
 
-/*footer*/
-#container > footer {
-  border-top: 1px solid #CCC;
-  clear: both;
-  margin: 20px 0;
+nav li {
+  margin-right: 10px;
 }
 
 /*links*/
@@ -78,15 +76,34 @@ a {
 }
 a:visited {
   color: #c7260d;
-  text-decoration: none;
 }
 a:active {
   color: #c7260d;
-  text-decoration: none;
 }
 a:hover {
   color: #e7463d;
   text-decoration: underline;
+}
+
+/*footer*/
+footer {
+  border-top: 1px solid #CCC;
+  clear: both;
+  margin: 5px 0;
+  text-align: center;
+}
+
+footer p {
+  margin: 5px 0;
+}
+
+footer, footer a {
+  color: #777777;
+}
+
+footer a:hover, footer a:visited {
+  text-decoration: underline;
+  color: #777777;
 }
 
 /* posts */
