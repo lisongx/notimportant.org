@@ -1,16 +1,17 @@
 @import url(http://fonts.googleapis.com/css?family=Alef);
 
 html {
-    background: #F0F0F0 url(/img/colors.png) repeat-y left bottom;
+  background: #F0F0F0;
 }
 
 ::selection { 
-    background: red; 
-    color: white; 
+  background: red; 
+  color: white; 
 }
+
 ::-moz-selection { 
-    background: red; 
-    color: white; 
+  background: red; 
+  color: white; 
 }
 
 /* Typography */
@@ -36,16 +37,26 @@ nav {
 }
 
 article {
-    line-height: 1.5em;
+  line-height: 1.5em;
 }
 
 #container {
-    margin: 0 auto;
-    width: 700px;  
+  margin: 0 auto;
+  width: 700px;  
 }
 
+/*header*/
 header li {
   display: inline;
+}
+
+header h1 a:hover {
+  color: #EE6348; 
+  text-decoration: none;
+}
+ 
+#audioBtn {
+  margin-left: 10px;
 }
 
 /*nav*/
@@ -55,10 +66,11 @@ nav li {
 
 /*footer*/
 #container > footer {
-    border-top: 1px solid #CCC;
-    clear: both;
-    margin: 20px 0;
+  border-top: 1px solid #CCC;
+  clear: both;
+  margin: 20px 0;
 }
+
 /*links*/
 a {
   color: #D05A6E;
@@ -84,40 +96,19 @@ a:hover {
   font-family:"Tahoma", "Lucida Console", Monaco, monospace
 }
 
-/*icons*/
-p#rellinks {
-    height: 30px;
-    text-align: center;
-}
- 
-p#rellinks a {
-    width: 16px;
-    height: 16px;
-    display: inline-block;
-    margin-top: 12px;
-}
- 
-p#rellinks a img {
-    opacity: 0.5;
-}
- 
-p#rellinks a:hover img {
-    opacity: 1.0;
-}
-
 /*typo*/
 .footnotes {
-    font-size: 0.75em;
-    color: #5D5D5D;
+  font-size: 0.75em;
+  color: #5D5D5D;
 }
 
 /*quote*/
 blockquote {
-    margin: 0 0 20px 32px;
-    color: #333;
-    border-left: 4px #ccc solid;
-    padding-left: 6px;
-    font-style:italic
+  margin: 0 0 20px 32px;
+  color: #333;
+  border-left: 4px #ccc solid;
+  padding-left: 6px;
+  font-style:italic
 }
 
 /*code*/
@@ -133,33 +124,33 @@ blockquote {
 }*/
 
 code, pre {
-    font-family: Monaco, Andale Mono, Courier New, monospace;
-    font-size: 85%;
+  font-family: Monaco, Andale Mono, Courier New, monospace;
+  font-size: 85%;
 }
 code {
-    background-color: #fee9cc;
-    color: rgba(0, 0, 0, 0.75);
-    padding: 1px 3px;
-    font-size: 12px;
-    -webkit-border-radius: 3px;
-    -moz-border-radius: 3px;
-    border-radius: 3px;
+  background-color: #fee9cc;
+  color: rgba(0, 0, 0, 0.75);
+  padding: 1px 3px;
+  font-size: 12px;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
 }
 pre {
-    display: block;
-    padding: 14px;
-    margin: 0 0 18px;
-    line-height: 16px;
-    font-size: 11px;
-    border: 1px solid #d9d9d9;
-    white-space: pre-wrap;
-    word-wrap: break-word;
+  display: block;
+  padding: 14px;
+  margin: 0 0 18px;
+  line-height: 16px;
+  font-size: 11px;
+  border: 1px solid #d9d9d9;
+  white-space: pre-wrap;
+  word-wrap: break-word;
 }
 pre code {
-    background-color: #fff;
-    color:#737373;
-    font-size: 11px;
-    padding: 0;
+  background-color: #fff;
+  color:#737373;
+  font-size: 11px;
+  padding: 0;
 }
 
 
