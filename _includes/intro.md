@@ -1,4 +1,7 @@
-<img src="/img/sean2.jpg" alt="me, by Zila" width="350" style="float:right;margin:25px"/>
+<figure class="me">
+    <img src="/img/sean2.jpg" alt="Sean Lee" width="350"/>
+    <figcaption>photo by Zila He</figcaption>
+</figure>
 
 ## My name is Sean!
 
