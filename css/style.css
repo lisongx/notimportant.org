@@ -153,6 +153,7 @@ code {
   -moz-border-radius: 3px;
   border-radius: 3px;
 }
+
 pre {
   display: block;
   padding: 14px;
@@ -163,6 +164,7 @@ pre {
   white-space: pre-wrap;
   word-wrap: break-word;
 }
+
 pre code {
   background-color: #fff;
   color:#737373;
@@ -170,5 +172,11 @@ pre code {
   padding: 0;
 }
 
+figure.me {
+  float: right;
+  margin: 25px;
+}
 
-
+figure.me  figcaption {
+  text-align: right;
+}
