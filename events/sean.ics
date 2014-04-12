@@ -6,6 +6,7 @@ VERSION:2.0
 PRODID:-////Sean Lee Events //EN
 X-WR-CALNAME:Sean Lee - Events
 X-ORIGINAL-URL:http://notimportant.org/events/sean.ics
+X-WR-TIMEZONE:Asia/Shanghai
 METHOD:PUBLISH
 {% for event in site.data.events limit:10 %}BEGIN:VEVENT
 UID:{{ event.time | date: "%Y%m%d" }}@notimportant.org
