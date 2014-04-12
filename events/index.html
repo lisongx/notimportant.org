@@ -1,0 +1,27 @@
+---
+layout: default
+title: Events
+---
+
+<section id="events">
+  <ol>
+    {% for event in site.data.events %}
+      <li>
+        <p>
+          {% if event.slug %}
+            <a href="{{ event.slug }}">
+              {{ event.title }}
+            </a>
+          {% else %}
+            {{ event.title }}
+          {% endif %}
+        </p>
+        <time datetime="{{ event.time | date: date_to_xmlschema }}">
+          {{ event.time | date: "%I:%M%p, %d %b %Y" }}
+        </time>
+        - {{ event.venue }} -
+        <a href="{{ event.link }}">info</a>
+      </li>
+    {% endfor %}
+  </ol>
+</section>

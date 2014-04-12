@@ -22,6 +22,10 @@ body {
   padding-top: 10px;  
 }
 
+time {
+  font-family: helvetica;
+}
+
 header h1 {
   font-weight: 900px;
   font-style: italic;
@@ -32,7 +36,7 @@ nav {
   font-family: helvetica;
 }
 
-#content {
+#intro {
   font-family: "Alef", helvetica;
 }
 
@@ -114,6 +118,7 @@ footer a:hover, footer a:visited {
 }
 
 /*typo*/
+
 .footnotes {
   font-size: 0.75em;
   color: #5D5D5D;
@@ -144,6 +149,7 @@ code, pre {
   font-family: Monaco, Andale Mono, Courier New, monospace;
   font-size: 85%;
 }
+
 code {
   background-color: #fee9cc;
   color: rgba(0, 0, 0, 0.75);
@@ -179,4 +185,18 @@ figure.me {
 
 figure.me  figcaption {
   text-align: right;
+}
+
+/*events*/
+#events {
+  font-family: helvetica;
+}
+
+#events ol {
+  list-style-type: none;
+}
+
+#events ol li:not(:last-child) {
+  padding-bottom: 20px;
+  border-bottom: 1.5px dashed #bbb;
 }
