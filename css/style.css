@@ -193,6 +193,7 @@ figure.me  figcaption {
 }
 
 #events ol {
+  margin-top: 40px;
   list-style-type: none;
 }
 
