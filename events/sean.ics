@@ -1,0 +1,20 @@
+---
+layout: none
+---
+
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:http://notimportant.org/events/
+METHOD:PUBLISH
+{% for event in site.data.events limit:10 %}BEGIN:VEVENT
+UID:{{ event.time | date: "%Y%m%d" }}@notimportant.org
+ORGANIZER;CN=Sean Lee:MAILTO:iseansay@gmail.com
+LOCATION:{{ event.location }}
+SUMMARY:{{ event.title }} detail at {{ event.link }}
+CLASS:PUBLIC
+DTSTART:{{ event.time | date: "%Y%m%dT%H%M%S" }}
+DTEND:{{ event.endtime | date: "%Y%m%dT%H%M%S" }}
+DTSTAMP:{{ event.time | date: "%Y%m%dT%H%M%S" }}
+END:VEVENT{% if forloop.last %}{% else %}
+{% endif %}{% endfor %}
+END:VCALENDAR
