@@ -17,16 +17,19 @@ title: Events
   </p>
 
   <ol>
-    {% for event in site.data.events %}
-      <li>
+    {% for event in site.categories.event %}
+      <li class="event">
         <p>
-          {% if event.slug %}
-            <a href="{{ event.slug }}">
+          {% if event.content.size > 5 %}
+            <a href="{{ event.url }}">
               {{ event.title }}
             </a>
           {% else %}
             {{ event.title }}
           {% endif %}
+        </p>
+        <p class="description">
+          {{ event.description }}
         </p>
         <time datetime="{{ event.time | date: date_to_xmlschema }}">
           {{ event.time | date: "%I:%M%p, %d %b %Y" }}

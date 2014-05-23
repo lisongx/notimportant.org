@@ -1,4 +1,4 @@
 markdown: kramdown
-permalink: pretty
 title: Sean Lee
 timezone: Asia/Shanghai
+permalink: /:categories/:title
