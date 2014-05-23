@@ -11,7 +11,7 @@ category: event
 ---
 
 
-## VJ for Qinling Resort at System Error Vol.37
+## Visuals at System Error Vol.37
 
 All photos taken by [Liu Xin](http://www.douban.com/people/cecilia9068/)
 
