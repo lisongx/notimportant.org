@@ -9,3 +9,10 @@ location: 陕西省西安市莲湖区碑林东大街菊花园饮马池（近端�
 link: http://www.douban.com/event/21447466/
 category: event
 ---
+
+## Live Visual Perfomance
+
+
+### video clips
+
+<iframe src="//player.vimeo.com/video/96281221" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/96281221">don vito at xi'an apeture club, system errrr vol.39</a> from <a href="http://vimeo.com/user17095201">Sean Lee</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
