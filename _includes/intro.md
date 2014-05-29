@@ -1,5 +1,5 @@
 <figure class="me">
-    <img src="/img/sean2.jpg" alt="Sean Lee" width="350"/>
+    <img src="{% asset_path sean3.jpg %}" alt="Sean Lee" width="350"/>
     <figcaption>photo by Zila He</figcaption>
 </figure>
 
