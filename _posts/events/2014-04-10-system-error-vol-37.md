@@ -13,7 +13,7 @@ category: event
 
 ## Visuals at System Error Vol.37
 
-All photos taken by [Liu Xin](http://www.douban.com/people/cecilia9068/)
+Photos by [Liu Xin](http://www.douban.com/people/cecilia9068/).
 
 ![Sean]({{site.url}}/photos/system-error-vol-37/sean.jpg)
 
