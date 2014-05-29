@@ -10,7 +10,7 @@
     <link href="http://feeds.feedburner.com/notimportant" rel="alternate" title="Not Important" type="application/atom+xml" />
 
     <!--le css -->
-    <link rel="stylesheet" href="/css/style.css" type="text/css" />
+    {% stylesheet main %}
 
     <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
     <!--[if lt IE 9]>
@@ -49,9 +49,10 @@
 <!-- js start -->
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js">
 </script>
-<script src="/js/libs/coffee-script.js"></script>
-<script src="/js/libs/coffee-collider.js"></script> 
-<script src="/js/index.js"></script>
+
+{% javascript libs/coffee-script %}
+{% javascript libs/coffee-collider %}
+{% javascript index %}
 <!-- js end -->
 
 {% include ga.html %}
