@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: event
 title: system error vol.24
 description: audiovisual performance
 time: 2013-6-25 20:30:00 +8

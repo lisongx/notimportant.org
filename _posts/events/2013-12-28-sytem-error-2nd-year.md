@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: event
 title: the 2nd anniversary of system error
 description: audiovisual performance
 time: 2013-12-28 20:00:00 +8

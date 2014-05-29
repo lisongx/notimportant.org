@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: event
 title: system error vol.39
 description: live visual performance for Qinling Resort and Don Vito
 time: 2014-5-21 21:00:00 +8

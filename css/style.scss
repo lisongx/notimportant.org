@@ -1,4 +1,5 @@
-@import url(http://fonts.googleapis.com/css?family=Alef);
+---
+---
 
 html {
   background: #F0F0F0;
@@ -19,7 +20,7 @@ body {
   font-family: helvetica, arial, sans-serif;
   color: #222;
   font-size: 16px;
-  padding-top: 10px;  
+  padding-top: 10px;
 }
 
 time {
@@ -37,11 +38,25 @@ nav {
 }
 
 #intro {
-  font-family: "Alef", helvetica;
+  font-family: 'Source Code Pro', helvetica;
+  font-size: 14px;
 }
 
 article {
-  line-height: 1.5em;
+  font-family: 'Source Code Pro', sans-serif;
+
+  &.event {
+
+    h2 {
+      font-size: 16px;
+    }
+
+    p {
+      font-size: 12px;
+      font-weight: 500;
+    }
+  }
+
 }
 
 #container {
@@ -91,30 +106,33 @@ a:hover {
 
 /*footer*/
 footer {
+
   border-top: 1px solid #CCC;
   clear: both;
   margin: 5px 0;
   text-align: center;
-}
+  color: #777;  
 
-footer p {
-  margin: 5px 0;
-}
+  p {
+    margin: 5px 0;
+  }
 
-footer, footer a {
-  color: #777777;
-}
+  a {
+    color: #777;
 
-footer a:hover, footer a:visited {
-  text-decoration: underline;
-  color: #777777;
+    &:hover, &:visited {
+      text-decoration: underline;
+      color: #777;
+    }
+  }
+
 }
 
 /* posts */
 
 /* fixed with so that the date looks nice*/
 #posts .date {
-  font-family:"Tahoma", "Lucida Console", Monaco, monospace
+  font-family: "Tahoma", "Lucida Console", Monaco, monospace
 }
 
 /*typo*/

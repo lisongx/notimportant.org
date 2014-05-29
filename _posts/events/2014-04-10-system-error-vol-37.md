@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: event
 title: system error vol.37
 description: live visual performance for Qinling Resort
 time: 2014-4-10 20:30:00 +8
@@ -10,8 +10,6 @@ link: http://www.douban.com/event/21020936/
 category: event
 ---
 
-
-## Visuals at System Error Vol.37
 
 Photos by [Liu Xin](http://www.douban.com/people/cecilia9068/).
 

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: event
 title: HAZE
 description: audioviual performance, 3 wall projections.
 time: 2014-5-10 14:00:00 +8
