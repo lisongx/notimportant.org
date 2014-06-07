@@ -4,7 +4,12 @@ layout: default
 
 <article class="event">
   <header>
-    <h2> {{ page.description }} </h2>
+    <hgroup>
+      <h2> {{ page.title }} </h2>
+      <h3> {{ page.description }} </h3>
+    </hgroup>
   </header>
+
   {{ content }}
+
 </article>

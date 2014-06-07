@@ -48,6 +48,21 @@ article {
       font-size: 16px;
     }
 
+    h3 {
+      font-size: 14px;
+    }
+
+    header {
+      margin-bottom: 20px;
+      border-bottom: 1px dashed gray;
+
+      h3 {
+        color: lighten(#222, 40);
+      }
+
+    }
+
+
     p {
       font-size: 12px;
       font-weight: 500;

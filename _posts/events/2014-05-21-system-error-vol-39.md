@@ -10,9 +10,6 @@ link: http://www.douban.com/event/21447466/
 category: event
 ---
 
-## Live Visual Perfomance for Qinling Resort and Don Vito
-
-
 ### video clips
 
 <iframe src="//player.vimeo.com/video/96281221" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
