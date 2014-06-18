@@ -26,8 +26,8 @@ $(document).ready(function() {
 
       bgCtx.globalAlpha = 0.4;
       bgCtx.drawImage(glitchedCanvas, 0, 0);
-
-      console.log("done");
+      
+      $("canvas").hide();
     });
   };
 
