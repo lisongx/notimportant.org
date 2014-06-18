@@ -1,25 +1,34 @@
 $(document).ready(function() {
-  var cc = new CoffeeCollider();
-  var code = "(-> Pan2.ar(SinOsc.ar(SinOsc.ar(MouseY.kr(5, 10, 1), 0, 10, MouseX.kr(400, 1000, 1))), SinOsc.kr(0.4), 0.05)).play()";
-  var btn = $("#audioBtn");
-  var PLAY_ICON_CLASS = "fa-play";
-  var PAUSE_ICON_CLASS= "fa-pause";
+  var img = new Image;
+  img.crossOrigin = "Anonymous";
 
-  btn.on("click", function(){
-    // cache object
-    var $this = $(this);
-    if($this.hasClass(PLAY_ICON_CLASS)) {
-      cc.run(code);
-      $this.removeClass(PLAY_ICON_CLASS);
-      $this.addClass(PAUSE_ICON_CLASS);
-    } else {
-      cc.pause();
-      $this.removeClass(PAUSE_ICON_CLASS);
-      $this.addClass(PLAY_ICON_CLASS);
-    }
+  $.get("/photo_list.txt", function(data){
+    var site = "http://photos.notimportant.org/";
+    var photoPaths = data.split("\n");
+    var photo = photoPaths[Math.floor(Math.random() * photoPaths.length)];
+    var photoLink = site + photo;
+    img.src = photoLink;
   });
+  
+  img.onload = function() { 
+    var canvas = document.getElementById("bg-canvas");
+    var glitchedCanvas = document.getElementById("glitched-canvas");
+    var ctx = canvas.getContext("2d");
+    var glitchedCtx = glitchedCanvas.getContext("2d");
+    
+    ctx.drawImage(img, 0, 0);
+    var bgImgData = ctx.getImageData(0, 0, canvas.clientWidth, canvas.clientHeight );
+    var parameters = { amount: 10, seed: 20, iterations: 20, quality: 30 };
+    var bgCtx = document.getCSSCanvasContext("2d", "mybackground", 600, 600);
+    
+    glitch(bgImgData, parameters, function(image_data){
+      glitchedCtx.putImageData(image_data, 0, 0);
+
+      bgCtx.globalAlpha = 0.4;
+      bgCtx.drawImage(glitchedCanvas, 0, 0);
+
+      console.log("done");
+    });
+  };
+
 });
-
-
-
-

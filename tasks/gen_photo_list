@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+cd ~/Dropbox/Sites/photos.notimportant.org/photos
+find . -name \*.jpg -print|cut -c3- > /tmp/photo_list.txt
+cd -
+mv /tmp/photo_list.txt .

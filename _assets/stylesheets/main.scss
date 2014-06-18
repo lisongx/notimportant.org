@@ -1,6 +1,12 @@
-html {
-  background: #F0F0F0;
+body {
+  background: -webkit-canvas(mybackground);
+  background: canvas(mybackground);
+  background-attachment: fixed;  
 }
+
+//body {
+//  background-color: rgba(255, 255, 255, 0.9);
+//}
 
 ::selection { 
   background: red; 
@@ -238,4 +244,9 @@ figure.me  figcaption {
 
 #events p.description {
   font-size: 12px;
+}
+
+
+canvas { 
+  position: fixed;
 }

@@ -44,11 +44,17 @@
           <a href="http://twitter.com/seansay" target="_blank">@seansay</a> &bull; <a href="http://github.com/seansay" target="_blank">Github</a> &bull; iseansay at gmail dot com
         </p>
     </footer>
+    
+    <canvas width="600" height="600" id="bg-canvas"></canvas>
+    <canvas width="600" height="600" id="glitched-canvas"></canvas>
 </div>
 
 <!-- js start -->
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js">
 </script>
+
+{% javascript libs/glitch-canvas.min.js %}
+{% javascript index %}
 <!-- js end -->
 
 {% include ga.html %}
