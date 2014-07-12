@@ -1,7 +1,7 @@
 ---
 layout: event
 title: system error environment improv vol.4
-description: live performance in a forest park
+description: laptop noise in xiangyu forest park
 time: 2014-6-07 11:00:00 +8
 endtime: 2014-6-07 16:00:00 +8
 venue: Xi'an XiangYu Forest Park
