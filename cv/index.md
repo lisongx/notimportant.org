@@ -27,23 +27,25 @@ title: CV
 
     Statement of Accomplishment, Principles of Reactive Programming
 
+
 ### Experience
 
-*   2010/10 - 2014/06, Core Member, Xidian OpenSource Community
 
-    Participate in the communituy organzation and serveal project’s development, manage the community’s Github Organization
+*   2013/07 - 09, Web Developer Intern, Douban
 
-*   2010/07 - 08, Web Developer Intern, whyyu.com
-
-    Writing PHP and jQuery for the Web-based English learning app
+    Working on a GitHub clone written Python and Javascript, desiging and implementing RESTful API for the project. Also in the Douban Music team, bugfix and new feature for the site serving hundreds of millions of Users
 
 *   2011/10 - now, Co-Founder, www.xiuxiu.de
 
     A internet-based organzation for interesting small app
 
-*   2013/07 - 09, Web Developer Intern, Douban
+*   2011/07 - 08, Web Developer Intern, whyyu.com
 
-    Working on a GitHub clone written Python and Javascript, desiging and implementing RESTful API for the project. Also in the Douban Music team, bugfix and new feature for the site serving hundreds of millions of Users
+    Writing PHP and JavaScript for the Web-based English learning app
+
+*   2010/10 - 2014/06, Core Member, Xidian OpenSource Community
+
+    Participate in the communituy organzation and serveal project’s development, manage the community’s Github Organization
 
 
 ### Selected Performance
