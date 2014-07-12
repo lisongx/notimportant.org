@@ -18,7 +18,7 @@ $(document).ready(function() {
     
     ctx.drawImage(img, 0, 0);
     var bgImgData = ctx.getImageData(0, 0, canvas.clientWidth, canvas.clientHeight );
-    var parameters = { amount: 10, seed: 20, iterations: 20, quality: 30 };
+    var parameters = { amount: 10, seed: Math.random() * 30, iterations: 10, quality: 80 };
     var bgCtx = document.getCSSCanvasContext("2d", "mybackground", 600, 600);
     
     glitch(bgImgData, parameters, function(image_data){
