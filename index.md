@@ -9,10 +9,7 @@ layout: intro
 
 ## My name is Sean!
 
-I'm a web developer living in Beijing.
-Now I am doing my B.E in Xi’an.
-
-I do web development with Python and Javascript, both front-end and back-end. And I'm a big fan of [Web Components][web_components] and [Static Web Applications][staticapps]. You can read all my open source code at [GitHub][github].
+I'm a web developer living in Beijing. I do web development with Python and Javascript, both front-end and back-end. And I'm a big fan of [Web Components][web_components] and [Static Web Applications][staticapps]. You can read all my open source code at [GitHub][github].
 
 I like learning new things, from [Funtional Programming][progfun] to [Astrobiology][astrobiology]. 
 
