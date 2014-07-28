@@ -3,7 +3,9 @@ layout: default
 title: CV
 ---
 
-## Web Developer
+## Sean Lee <iseansay@gmail.com>
+
+Web Developer and Digital Artist based on Beijing, China.
 
 ### Education
 
@@ -17,11 +19,15 @@ title: CV
 
 *   2013/03, Coursera
 
-    Statement of Accomplishment, Introduction to Data Science
+    Statement of Accomplishment, Introduction to Digital Sound Design
 
 *   2013/07, Coursera
 
     Statement of Accomplishment, Introduction to Data Science
+
+*   2013/07, Coursera
+
+    Statement of Accomplishment, Survey of Music Technology
 
 *   2013/12, Coursera
 
@@ -30,6 +36,7 @@ title: CV
 
 ### Experience
 
+*   2014/07 - present, Web Developer, Douban
 
 *   2013/07 - 09, Web Developer Intern, Douban
 
@@ -50,5 +57,6 @@ title: CV
 
 ### Selected Performance
 
-*   2014/05, HAZE, Xi’an OCT Contemporary Art Terminal
-    audioviual performance
+*   2014/05, HAZE, audioviual performance [link](http://notimportant.org/event/system-error-at-ocat-xian/)
+
+*   2014/06, System Error Vol.37, live visual performance for Qinling Resort [link](http://notimportant.org/event/system-error-vol-37/)
