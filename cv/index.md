@@ -5,7 +5,7 @@ title: CV
 
 ## Sean Lee <iseansay@gmail.com>
 
-Web Developer and Digital Artist based on Beijing, China.
+Web Developer and Digital Artist based in Beijing, China.
 
 ### Education
 
