@@ -73,6 +73,7 @@
             var chart = c3.generate({
                 data: {
                     x: 'date',
+                    y: 'capacity',
                     columns:[
                       ['date'].concat(date),
                       ['capacity'].concat(capacity)
@@ -85,6 +86,9 @@
                           count: 20,
                           format: '%Y-%m-%d',
                         }
+                    },
+                    y: {
+                      label: '客运量(万)'
                     }
                 }
             });
