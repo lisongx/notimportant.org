@@ -52,7 +52,7 @@ Web Developer and Digital Artist based in Beijing, China.
 
 *   2010/10 - 2014/06, Core Member, Xidian OpenSource Community
 
-    Participate in the communituy organzation and serveal project’s development, manage the community’s Github Organization
+    Participate in the community organzation and several project’s development, manage the community’s Github Organization
 
 
 ### Selected Performance

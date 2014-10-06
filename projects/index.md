@@ -21,7 +21,7 @@ A Simple Ruby wrapper for [Douban API V2][douban_api_doc]
 
 ### [Coursera Alfred][alfred_github]
 
-A Chrome Extension to help Coursera users to keep track of all the deadlines they have. It's open source and released under the MIT License, has serveral contributers.
+A Chrome Extension to help Coursera users to keep track of all the deadlines they have. It's open source and released under the MIT License, has several contributers.
 
 [alfred_github]: https://github.com/xiuxiude/coursera_alfred
 
@@ -37,14 +37,14 @@ A sepcial [Douban FM][douban_fm] client for OS X, besides the cross browser user
 
 ### [Bookit][bookit_site]
 
-A cross platform (botn mobile and web) app to help unversity students in China to find books they want in library.
+A cross platform (botn mobile and web) app to help university students in China to find books they want in library.
 
 [bookit_site]: http://bookitapp.org/
 
 
 ### [doubanIMDb][douban_imdb_github]
 
-A simple browser tool help Douban movie users see the rating from IMDb and Rotten Tomatoes, more than 200000 installted.
+A simple browser tool help Douban movie users see the rating from IMDb and Rotten Tomatoes, more than 200000 installation.
 
 [douban_imdb_github]: https://github.com/seansay/doubanIMDb
 
