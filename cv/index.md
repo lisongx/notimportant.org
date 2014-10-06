@@ -44,7 +44,7 @@ Web Developer and Digital Artist based in Beijing, China.
 
 *   2011/10 - now, Co-Founder, www.xiuxiu.de
 
-    A internet-based organzation for interesting small app
+    An internet-based organzation for interesting small app
 
 *   2011/07 - 08, Web Developer Intern, whyyu.com
 
