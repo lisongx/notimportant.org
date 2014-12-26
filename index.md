@@ -2,16 +2,20 @@
 layout: intro
 ---
 
-<figure class="me">
-    <img src="{% asset_path sean2.jpg %}" alt="Sean Lee" width="350"/>
-    <figcaption>photo by Zila He</figcaption>
-</figure>
 
 ## My name is Sean!
 
+<figure class="me">
+  <img src="{% asset_path sean3.jpg %}" alt="Sean Lee" width="350"/>
+  <figcaption>
+    photo by Yuan Jingzhu at
+    <a href="http://www.soundleaks.org/event/vol0/">Soundleaks vol.0</a>
+  </figcaption>
+</figure>
+
 I'm a web developer based in Beijing. I'm a big fan of [Web Components][web_components] and [Static Web Applications][staticapps]. You can read all my open source code at [GitHub][github].
 
-I like learning new things, from [Funtional Programming][progfun] to [Astrobiology][astrobiology]. 
+I like learning new things, from [Funtional Programming][progfun] to [Astrobiology][astrobiology].
 
 I'm also a member of [System Error][system_error], an indie experimental music organization in which I make [audiovisual art][kunjinkao_video] by code. We just release the 2nd Anniversary Compilation, you can buy this record at [here][se2].
 

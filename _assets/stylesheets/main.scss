@@ -1,25 +1,25 @@
 body {
   background: -webkit-canvas(mybackground);
   background: canvas(mybackground);
-  background-attachment: fixed;  
+  background-attachment: fixed;
 }
 
 //body {
 //  background-color: rgba(255, 255, 255, 0.9);
 //}
 
-::selection { 
-  background: red; 
-  color: white; 
+::selection {
+  background: red;
+  color: white;
 }
 
-::-moz-selection { 
-  background: red; 
-  color: white; 
+::-moz-selection {
+  background: red;
+  color: white;
 }
 
 /* Typography */
-body { 
+body {
   font-family: helvetica, arial, sans-serif;
   color: #222;
   font-size: 16px;
@@ -33,7 +33,7 @@ time {
 header h1 {
   font-weight: 900px;
   font-style: italic;
-  letter-spacing: -1px; 
+  letter-spacing: -1px;
 }
 
 nav {
@@ -79,7 +79,7 @@ article {
 
 #container {
   margin: 0 auto;
-  width: 700px;  
+  width: 700px;
 }
 
 /*header*/
@@ -88,10 +88,10 @@ header li {
 }
 
 header h1 a:hover {
-  color: #EE6348; 
+  color: #EE6348;
   text-decoration: none;
 }
- 
+
 #audioBtn {
   margin-left: 10px;
 }
@@ -129,7 +129,7 @@ footer {
   clear: both;
   margin: 5px 0;
   text-align: center;
-  color: #777;  
+  color: #777;
 
   p {
     margin: 5px 0;
@@ -216,11 +216,13 @@ pre code {
 
 figure.me {
   float: right;
-  margin: 25px;
-}
+  margin: 0px 0px 25px 25px;
 
-figure.me  figcaption {
-  text-align: right;
+  figcaption {
+    font-size: 13px;
+    text-align: right;
+    font-style: italic;
+  }
 }
 
 /*events*/
@@ -247,6 +249,6 @@ figure.me  figcaption {
 }
 
 
-canvas { 
+canvas {
   position: fixed;
 }
