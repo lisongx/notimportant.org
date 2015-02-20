@@ -26,9 +26,8 @@ Don't hesitate to write to me if you have something to say:
 <iseansay@gmail.com>
 
 
-[xian]: http://en.wikipedia.org/wiki/Xi%27an
-[web_components]: http://www.w3.org/TR/components-intro/
-[staticapps]: http://www.staticapps.org/
+[web_components]: http://www.kunjinkao.org/glitch-img/
+[staticapps]: http://fm.littletouch.org/
 [github]: http://github.com/seansay
 [astrobiology]: /certificates/astrobio.pdf
 [progfun]: /certificates/progfun.pdf
