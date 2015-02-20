@@ -19,7 +19,7 @@ I like learning new things, from [Funtional Programming][progfun] to [Astrobiolo
 
 I'm also a member of [System Error][system_error], an indie experimental music organization in which I make [audiovisual art][kunjinkao_video] by code. We just release the 2nd Anniversary Compilation, you can buy this record at [here][se2].
 
-Recentely I’ve been crazy for shooting [photos][photos] by a toy camera, [kicking shuttlecock][jianzi], eating every [hulatang][hulatang](a soup originated in Xi' an) in the city, and writing [silly program][jiewei] for [noise music][noise].
+Recentely I’ve been crazy for shooting [photos][photos] by a toy camera, [kicking shuttlecock][jianzi], and writing [silly program][jiewei] for [noise music][noise].
 
 Don't hesitate to write to me if you have something to say:
 
