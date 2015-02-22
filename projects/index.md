@@ -55,7 +55,7 @@ A simple browser tool help Douban movie users see the rating from IMDb and Rotte
 
 A fork of the original [The Setup][the_setup_original] for Chinese readers.
 
-[the_setup]: http://setup.xiuxiu.de/
+[the_setup]: http://setup.littletouch.org/
 [the_setup_original]: http://www.usesthis.com/
 
 
@@ -63,15 +63,6 @@ A fork of the original [The Setup][the_setup_original] for Chinese readers.
 
 ### [kunjinkao][kunjinkao_homepage]
 
-An audio-visual duo, emphasizing code and art.
+An audio-visual performance duo
 
 [kunjinkao_homepage]: http://site.douban.com/kunjinkao
-
-
-## Movie
-
-### [movie_lines_fan][movie_lines_twitter]
-
-[@movie_lines_fan][movie_lines_twitter] is a twitter account publishing memorable movie quote in Chinese language for Chinese twitter users.
-
-[movie_lines_twitter]: https://twitter.com/movielines_fan
