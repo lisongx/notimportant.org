@@ -5,6 +5,13 @@ layout: intro
 
 ## My name is Sean!
 
+### My Newest Stuff:
+
+* [Small Black Dog](http://fm.littletouch.org/): A internet radio that play randomly good music powered by reddit user post.
+
+* [colorRelease](http://color.littletouch.org/): Discovery new released album by artwork color, created in [Static Showdown 2015](http://www.staticshowdown.com/)
+
+
 <figure class="me">
   <img src="{% asset_path sean3.jpg %}" alt="Sean Lee" width="350"/>
   <figcaption>
