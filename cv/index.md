@@ -7,6 +7,17 @@ title: CV
 
 Web Developer and Digital Artist based in Beijing, China.
 
+### Skills
+
+* Web Development (HTML/CSS)
+* Python/Ruby/Django/Rails
+* JavaScript/AngularJs/Polymer
+* Git
+* Unix/Cli
+* Processing
+* SuperCollider
+
+
 ### Education
 
 *   2010/08 - 2014/07, Xidian Unveristy
@@ -36,7 +47,19 @@ Web Developer and Digital Artist based in Beijing, China.
 
 ### Experience
 
-*   2014/07 - present, Web Developer, Douban
+*   2015/02 - present, Product Engineer, [Douban.FM](http://douban.fm/)
+
+    Working as a backend engineer for the biggest music discovery service in China.
+
+*   2014/10 - present, Organizer, [Soundleaks](http://www.soundleaks.org/)
+
+    Organzing the only Sound Art/Tech/Hack Meetup in China
+
+*   2013/10 - present, Performer, [kunjinkao](http://www.kunjinkao.org/)
+
+    Performing live audiovisual noise with Perry Pan since 2013, released one sonification piece in [System Error record](http://systemerrorxian.bandcamp.com/)
+
+*   2014/07 - 2015/02, Product Engineer, [Douban](http://www.douban.com/)
 
 *   2013/07 - 09, Web Developer Intern, Douban
 

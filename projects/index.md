@@ -18,6 +18,19 @@ A Simple Ruby wrapper for [Douban API V2][douban_api_doc]
 
 ## Software
 
+### [Small Black Dog](http://fm.littletouch.org/)
+
+A internet radio that play randomly good music powered by reddit user post.
+
+
+### [colorRelease](http://color.littletouch.org/)
+
+Discovery new released album by artwork color, created in Static Showdown 2015
+
+### [glitch-img](http://www.kunjinkao.org/glitch-img/)
+
+A web component to glitch your \<img\>
+
 
 ### [Coursera Alfred][alfred_github]
 
@@ -49,7 +62,7 @@ A simple browser tool help Douban movie users see the rating from IMDb and Rotte
 [douban_imdb_github]: https://github.com/seansay/doubanIMDb
 
 
-## Website
+## Other
 
 ### [The Setup][the_setup]
 
@@ -57,12 +70,3 @@ A fork of the original [The Setup][the_setup_original] for Chinese readers.
 
 [the_setup]: http://setup.littletouch.org/
 [the_setup_original]: http://www.usesthis.com/
-
-
-## Music
-
-### [kunjinkao][kunjinkao_homepage]
-
-An audio-visual performance duo
-
-[kunjinkao_homepage]: http://site.douban.com/kunjinkao
