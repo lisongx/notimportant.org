@@ -9,3 +9,11 @@ location: 台北市師大路102巷八號B1
 link: https://www.facebook.com/events/864293920299272/
 category: event
 ---
+
+Photos by [Yulin Huang](https://www.facebook.com/yulinh).
+
+![Me and Xie Zhongqi]({{site.url}}/photos/senko-issha-gig-1/senko1.jpg)
+
+![Me, Xie Zhongqi and Zhu Wenbo]({{site.url}}/photos/senko-issha-gig-1/senko2.jpg)
+
+![Me and Xie Zhongqi]({{site.url}}/photos/senko-issha-gig-1/senko3.jpg)

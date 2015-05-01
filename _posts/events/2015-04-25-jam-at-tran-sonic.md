@@ -9,3 +9,5 @@ location: 北投路一段9號 3樓, Taipei, Taiwan 11245
 link: https://www.facebook.com/events/1379232605740620/
 category: event
 ---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CD-xgZ8obKY" frameborder="0" allowfullscreen></iframe>
