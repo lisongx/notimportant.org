@@ -28,9 +28,11 @@ title: Events
             {{ event.title }}
           {% endif %}
         </p>
+
         <p class="description">
           {{ event.description }}
         </p>
+
         <time datetime="{{ event.time | date: date_to_xmlschema }}">
           {{ event.time | date: "%I:%M%p, %d %b %Y" }}
         </time>

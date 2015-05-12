@@ -13,4 +13,5 @@ category: event
 Photos by Zila He.
 
 ![kunjinkao 1]({{site.url}}/photos/system-error-xiangyu/kunjinkao1.jpg)
+
 ![kunjinako 2]({{site.url}}/photos/system-error-xiangyu/kunjinkao2.jpg)
