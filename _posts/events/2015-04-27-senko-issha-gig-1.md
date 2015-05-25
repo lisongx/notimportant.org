@@ -24,7 +24,7 @@ category: event
 
 ### Xie Zhongqi (sampler) Sean Lee (laptop)
 
-<audio src="{{site.cdn_path}}zhuwenbo+animalhuang+xiezhongqi.mp3" controls=""></audio>
+<audio src="{{site.cdn_path}}seanlee+xiezhongqi.mp3" controls=""></audio>
 
 
 ## Photos
