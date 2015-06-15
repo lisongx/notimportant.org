@@ -5,6 +5,8 @@ title: Sounds
 
 # Sounds
 
+_All works here are licensed under [CC-BY](https://creativecommons.org/licenses/by/4.0/)_
+
 ## Invented Here, 2015-03
 
 <audio src="{{site.cdn_path}}inventedhere.mp3" controls="">
