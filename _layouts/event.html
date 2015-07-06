@@ -7,6 +7,12 @@ layout: default
     <hgroup>
       <h2> {{ page.title }} </h2>
       <p> {{ page.description }} </p>
+      <p>
+        <time datetime="{{ page.time | date: date_to_xmlschema }}">
+        {{ page.time | date: "%I:%M%p, %d %b %Y" }}
+        </time>
+        @ <a href="{{ page.link }}">{{ page.venue }}</a>
+      </p>
     </hgroup>
   </header>
 
