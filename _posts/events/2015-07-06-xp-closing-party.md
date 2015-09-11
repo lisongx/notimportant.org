@@ -1,7 +1,7 @@
 ---
 layout: event
 title: "XP Closing Party"
-description: solo laptop noise and improvisation with others
+description: solo laptop noise
 time: 2015-07-05 16:00:00 +8
 endtime: 2015-07-05 22:00:00 +8
 venue: Beijing XP Club
