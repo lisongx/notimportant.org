@@ -3,14 +3,38 @@ layout: intro
 ---
 
 
-## My name is Sean!
+### Upcoming
 
-### My Newest Stuff:
+<section id="events">
+  <ol>
+    {% for event in site.categories.event %}
+      {% if event.time > site.time %}
+        <li class="event">
+          <p class="title">
+            {% if event.content.size > 5 %}
+              <a href="{{ event.url }}">
+                {{ event.title }}
+              </a>
+            {% else %}
+              {{ event.title }}
+            {% endif %}
+          </p>
 
-* [Small Black Dog](http://fm.littletouch.org/): A internet radio that play randomly good music powered by reddit user post.
+          <p class="description">
+            {{ event.description }}
+          </p>
 
-* [colorRelease](http://color.littletouch.org/): Discovery new released album by artwork color, created in [Static Showdown 2015](http://www.staticshowdown.com/)
+          <p>
+            <time datetime="{{ event.time | date: date_to_xmlschema}}">
+            {{event.time | date: "%I:%M%p, %d %b %Y" }}
+            </time> - {{ event.venue }} - <a href="{{ event.link }}">link</a>
+          </p>
 
+        </li>
+      {% endif %}
+    {% endfor %}
+  </ol>
+</section>
 
 <figure class="me">
   <img src="{% asset_path sean3.jpg %}" alt="Sean Lee" width="350"/>
@@ -20,30 +44,12 @@ layout: intro
   </figcaption>
 </figure>
 
-I'm a web developer based in Beijing. I'm a big fan of [Web Components][web_components] and [Static Web Applications][staticapps]. You can read all my open source code at [GitHub][github].
-
-I like learning new things, from [Funtional Programming][progfun] to [Astrobiology][astrobiology].
-
-I'm also a member of [System Error][system_error], an indie experimental music organization in which I make [audiovisual art][kunjinkao_video] by code. We just release the 2nd Anniversary Compilation, you can buy this record at [here][se2].
-
-Recentely I’ve been crazy for shooting [photos][photos] by a toy camera, [kicking shuttlecock][jianzi], and writing [silly program][jiewei] for [noise music][noise].
+I’m a [software developer][github] and [musician](http://notimportant.org/sounds) based in Beijing. I co-organized [Soundleaks](www.soundleaks.org), a sound art/tech event.
 
 Don't hesitate to write to me if you have something to say:
 
 <iseansay@gmail.com>
 
 
-[web_components]: http://www.kunjinkao.org/glitch-img/
-[staticapps]: http://fm.littletouch.org/
 [github]: http://github.com/seansay
-[astrobiology]: /certificates/astrobio.pdf
-[progfun]: /certificates/progfun.pdf
-[system_error]: http://site.douban.com/System-error/
-[kunjinkao_video]: http://site.douban.com/kunjinkao/widget/videos/13803886/video/319234/
-[se2]: http://se2.kunjinkao.org/
-[photos]: http://photos.notimportant.org
-[jianzi]: http://instagram.com/p/islRPBPRjX/
-[hulatang]: http://instagram.com/p/gVHTDuPRgg/
-[jiewei]: https://github.com/kunjinkao/jiewei
-[noise]: http://vimeo.com/116726370
 [email]: mailto:iseansay@gmail.com

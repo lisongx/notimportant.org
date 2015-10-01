@@ -1,12 +1,4 @@
-body {
-  background: -webkit-canvas(mybackground);
-  background: canvas(mybackground);
-  background-attachment: fixed;
-}
-
-//body {
-//  background-color: rgba(255, 255, 255, 0.9);
-//}
+$main-font: 'Noticia Text';
 
 ::selection {
   background: red;
@@ -20,14 +12,14 @@ body {
 
 /* Typography */
 body {
-  font-family: helvetica, arial, sans-serif;
+  font-family: $main-font, helvetica, arial, sans-serif;
   color: #222;
   font-size: 16px;
   padding-top: 10px;
 }
 
 time {
-  font-family: helvetica;
+  font-family: monospace
 }
 
 header h1 {
@@ -41,12 +33,12 @@ nav {
 }
 
 #intro {
-  font-family: 'Source Code Pro', helvetica;
+  font-family: $main-font, sans-serif;
   font-size: 14px;
 }
 
 article {
-  font-family: 'Source Code Pro', sans-serif;
+  font-family: $main-font, sans-serif;
 
   img {
     display: block;
@@ -155,12 +147,11 @@ footer {
 
 /* posts */
 
-/* fixed with so that the date looks nice*/
-#posts .date {
-  font-family: "Tahoma", "Lucida Console", Monaco, monospace
+#posts {
+  .date {
+    font-family: Monaco, monospace
+  }
 }
-
-/*typo*/
 
 .footnotes {
   font-size: 0.75em;
@@ -234,28 +225,27 @@ figure.me {
 
 /*events*/
 #events {
-  font-family: helvetica;
-}
+  font-family: $main-font;
 
-#events ol {
-  margin-top: 40px;
-  list-style-type: none;
-}
+  .event {
+    .title {
+      font-size: 15px;
+    }
 
-#events ol li:not(:last-child) {
-  padding-bottom: 20px;
-  border-bottom: 1.5px dashed #bbb;
-}
-
-#events .event {
-  font-size: 15px;
-}
-
-#events p.description {
-  font-size: 12px;
-}
+    .description {
+      font-style: italic;
+      font-size: 11px;
+    }
+  }
 
 
-canvas {
-  position: fixed;
+  ol {
+    margin-top: 40px;
+    list-style-type: none;
+
+    li:not(:last-child) {
+      padding-bottom: 20px;
+      border-bottom: 1.5px dashed #bbb;
+    }
+  }
 }
