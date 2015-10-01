@@ -19,7 +19,7 @@ body {
 }
 
 time {
-  font-family: monospace
+  font-family: $main-font;
 }
 
 header h1 {
@@ -29,7 +29,7 @@ header h1 {
 }
 
 nav {
-  font-family: helvetica;
+  font-family: $main-font;
 }
 
 #intro {
