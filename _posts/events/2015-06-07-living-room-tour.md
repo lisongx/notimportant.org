@@ -11,12 +11,21 @@ category: event
 ---
 
 
-### Sine wave for many phone, video shoot by 大安
+## Video
+
+By AnZi
+
+### Sine wave for many phone
 
 <iframe src="https://player.vimeo.com/video/130445646" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 
-### Recording
+### More
+
+<iframe src="https://player.vimeo.com/video/139422877" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+
+### Audio Recording of the Trio
 
 Vavabond (laptop), Zhu Wenbo (bass clarinet, tape recorder, drum) and Sean Lee (laptop)
 
