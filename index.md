@@ -38,14 +38,14 @@ layout: intro
 </section>
 
 <figure class="me">
-  <img src="{% asset_path sean3.jpg %}" alt="Sean Lee" width="350"/>
+  <img src="{% asset_path sean_at_xp.jpg %}" alt="Sean Lee" width="350"/>
   <figcaption>
-    photo by Yuan Jingzhu at
-    <a href="http://www.soundleaks.org/event/vol0/">Soundleaks vol.0</a>
+    photo by Li Bingyu at
+    <a href="http://www.douban.com/note/507080195/">XP Club</a>
   </figcaption>
 </figure>
 
-Hi, my name is Sean. I’m a [software developer][github] and [musician](http://notimportant.org/sounds) based in Beijing. I co-organized [Soundleaks](http://www.soundleaks.org), a sound art/tech event.
+Hi, my name is Sean. I’m a [software developer][github] and [musician](http://notimportant.org/sounds) based in Beijing. I co-organized [Soundleaks](http://m www.soundleaks.org), a sound art/tech event.
 
 Don't hesitate to write to me if you have something to say:
 
