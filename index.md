@@ -45,7 +45,7 @@ layout: intro
   </figcaption>
 </figure>
 
-Hi, my name is Sean. I’m a [software developer][github] and [musician](http://notimportant.org/sounds) based in Beijing. I co-organized [Soundleaks](http://m www.soundleaks.org), a sound art/tech event.
+Hi, my name is Sean. I’m a [software developer][github] based in Beijing. I co-organized [Soundleaks](http://www.soundleaks.org), a sound art/tech event.
 
 Don't hesitate to write to me if you have something to say:
 
