@@ -2,37 +2,36 @@
 layout: intro
 ---
 
-
+{% if site.data['upcoming_events'].size > 0 %}
 ### Upcoming
+{% endif %}
 
 <section id="events">
   <ol>
-    {% for event in site.categories.event %}
-      {% if event.time > site.time %}
-        <li class="event">
-          <p class="title">
-            {% if event.content.size > 5 %}
-              <a href="{{ event.url }}">
-                {{ event.title }}
-              </a>
-            {% else %}
+    {% for event in site.data['upcoming_events'] %}
+      <li class="event">
+        <p class="title">
+          {% if event.content.size > 5 %}
+            <a href="{{ event.url }}">
               {{ event.title }}
-            {% endif %}
-          </p>
+            </a>
+          {% else %}
+            {{ event.title }}
+          {% endif %}
+        </p>
 
-          <p class="description">
-            {{ event.description }}
-          </p>
+        <p class="description">
+          {{ event.description }}
+        </p>
 
-          <p>
-            <time datetime="{{ event.time | date: date_to_xmlschema}}">
-              {{event.time | date: "%I:%M%p, %d %b %Y" }}
-            </time>
-            - {{ event.venue }} - <a href="{{ event.link }}">link</a>
-          </p>
+        <p>
+          <time datetime="{{ event.time | date: date_to_xmlschema}}">
+            {{event.time | date: "%I:%M%p, %d %b %Y" }}
+          </time>
+          - {{ event.venue }} - <a href="{{ event.link }}">link</a>
+        </p>
 
-        </li>
-      {% endif %}
+      </li>
     {% endfor %}
   </ol>
 </section>
@@ -45,7 +44,7 @@ layout: intro
   </figcaption>
 </figure>
 
-Hi, my name is Sean. I’m a [software developer][github] based in Beijing. I co-organized [Soundleaks](http://www.soundleaks.org), a sound art/tech event.
+Hi, my name is Sean. I’m a [software engineer][github] based in Beijing. I co-organized [Soundleaks](http://www.soundleaks.org), a sound art/tech event.
 
 Don't hesitate to write to me if you have something to say:
 
