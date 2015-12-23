@@ -37,10 +37,9 @@ layout: intro
 </section>
 
 <figure class="me">
-  <img src="{% asset_path sean_at_xp.jpg %}" alt="Sean Lee" width="350"/>
+  <img src="{% asset_path sean5.jpg %}" alt="Sean Lee" width="350"/>
   <figcaption>
-    photo by Li Bingyu at
-    <a href="http://www.douban.com/note/507080195/">XP Club</a>
+    playing at Kaohsiung, 2015
   </figcaption>
 </figure>
 
