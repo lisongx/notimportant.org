@@ -1,7 +1,7 @@
 ---
 layout: event
 title: "OSCHub rehearsal: Sinusoidal Computation"
-description: sine wave network piece
+description: sine wave networked piece
 time: 2016-02-15 11:00:00 +8
 endtime: 2015-02-15 12:00:00 +8
 venue: OSCHub
