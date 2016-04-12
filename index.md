@@ -2,6 +2,15 @@
 layout: intro
 ---
 
+
+
+### News
+
+![Summer Of Store](https://f4.bcbits.com/img/a0308054591_7.jpg)
+
+No Performance's debug album [Summer of Store](https://zoominnight.bandcamp.com/) released by Zoomin' Night
+
+
 {% if site.data['upcoming_events'].size > 0 %}
 ### Upcoming
 {% endif %}
@@ -39,7 +48,8 @@ layout: intro
 <figure class="me">
   <img src="{% asset_path sean5.jpg %}" alt="Sean Lee" width="350"/>
   <figcaption>
-    playing at Kaohsiung, 2015
+    photo by Li Bingyu at
+    <a href="http://www.douban.com/note/507080195/">XP Club</a>
   </figcaption>
 </figure>
 
