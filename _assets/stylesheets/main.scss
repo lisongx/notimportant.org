@@ -240,7 +240,7 @@ figure.me {
 
 
   ol {
-    margin-top: 40px;
+    margin-top: 20px;
     list-style-type: none;
 
     li:not(:last-child) {
@@ -248,4 +248,9 @@ figure.me {
       border-bottom: 1.5px dashed #bbb;
     }
   }
+}
+
+/* news */
+section.news {
+  margin-left: 40px;
 }

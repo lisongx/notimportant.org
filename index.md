@@ -6,9 +6,11 @@ layout: intro
 
 ### News
 
-![Summer Of Store](https://f4.bcbits.com/img/a0308054591_7.jpg)
+<section class="news">
+  <img src="{% asset_path summer-of-store.jpg %}" alt="Summer of Store" width="350"/>
+  <p>April 2016, <a href="https://zoominnight.bandcamp.com/album/summer-of-store">Summer of Store</a> released by Zoomin' Night</p>
+</section>
 
-No Performance's debug album [Summer of Store](https://zoominnight.bandcamp.com/) released by Zoomin' Night
 
 
 {% if site.data['upcoming_events'].size > 0 %}
@@ -48,8 +50,7 @@ No Performance's debug album [Summer of Store](https://zoominnight.bandcamp.com/
 <figure class="me">
   <img src="{% asset_path sean5.jpg %}" alt="Sean Lee" width="350"/>
   <figcaption>
-    photo by Li Bingyu at
-    <a href="http://www.douban.com/note/507080195/">XP Club</a>
+    <a href="http://www.douban.com/note/507080195/">Playing at taiwan</a>
   </figcaption>
 </figure>
 
