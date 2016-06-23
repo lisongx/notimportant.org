@@ -50,7 +50,7 @@ layout: intro
 <figure class="me">
   <img src="{% asset_path sean5.jpg %}" alt="Sean Lee" width="350"/>
   <figcaption>
-    <a href="http://www.douban.com/note/507080195/">Playing at taiwan</a>
+    Playing at taiwan
   </figcaption>
 </figure>
 
