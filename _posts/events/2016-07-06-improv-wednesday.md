@@ -1,7 +1,7 @@
 ---
 layout: event
 title: "an improvised Wednesday"
-description: live doing with Ma Jin and others
+description: live coding sound with Ma Jin and others
 time: 2016-07-06 20:30:00 +8
 endtime: 2016-07-06 22:30:00 +8
 venue: fRUITYSPACE
