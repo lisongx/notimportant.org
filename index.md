@@ -7,8 +7,7 @@ layout: intro
 ### News
 
 <section class="news">
-  <img src="{% asset_path summer-of-store.jpg %}" alt="Summer of Store" width="350"/>
-  <p>April 2016, <a href="https://zoominnight.bandcamp.com/album/summer-of-store">Summer of Store</a> released by Zoomin' Night</p>
+  <p>new live recoding included in <a href="http://www.frequency.asia/shows/escdotdot">inward looking field mix</a>, created by <a href="http://www.escdotdot.com/">Edward Sanderson</a></p>
 </section>
 
 
