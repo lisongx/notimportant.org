@@ -7,13 +7,17 @@ layout: intro
 ### News
 
 <section class="news">
+  <p>jam recording with <a href="https://site.douban.com/outbeatcaff/">Luodelai</a>, <a href="https://zoominnight.bandcamp.com">Zhu Wenbo</a> and <a href="http://andreajarales.tumblr.com">Andrea Jarales</a>, <a href="https://futuro475.bandcamp.com/releases">listen here</a></p>
+
   <p>new live recoding included in <a href="http://www.frequency.asia/shows/escdotdot">inward looking field mix</a>, created by <a href="http://www.escdotdot.com/">Edward Sanderson</a></p>
 </section>
 
 
 
 {% if site.data['upcoming_events'].size > 0 %}
+
 ### Upcoming
+
 {% endif %}
 
 <section id="events">
