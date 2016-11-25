@@ -7,9 +7,16 @@ layout: intro
 ### News
 
 <section class="news">
-  <p>jam recording with <a href="https://site.douban.com/outbeatcaff/">Luodelai</a>, <a href="https://zoominnight.bandcamp.com">Zhu Wenbo</a> and <a href="http://andreajarales.tumblr.com">Andrea Jarales</a>, <a href="https://futuro475.bandcamp.com/releases">listen here</a></p>
+  <p>Cover design for Kiyasu Orchestra's first album: <a  href="https://zoominnight.bandcamp.com/album/cosmo">Cosmo</a></p>
 
-  <p>new live recoding included in <a href="http://www.frequency.asia/shows/escdotdot">inward looking field mix</a>, created by <a href="http://www.escdotdot.com/">Edward Sanderson</a></p>
+  <figure>
+    <img src="https://f4.bcbits.com/img/0008752630_10.jpg" width="200"/>
+    <img src="https://f4.bcbits.com/img/0008752632_10.jpg" width="200"/>
+  </figure>
+
+
+  <p>Jam recording with <a href="https://site.douban.com/outbeatcaff/">Luodelai</a>, <a href="https://zoominnight.bandcamp.com">Zhu Wenbo</a> and <a href="http://andreajarales.tumblr.com">Andrea Jarales</a>, <a href="https://futuro475.bandcamp.com/releases">listen here</a></p>
+
 </section>
 
 
