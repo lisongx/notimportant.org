@@ -7,15 +7,9 @@ layout: intro
 ### News
 
 <section class="news">
-  <p>Cover design for Kiyasu Orchestra's first album: <a  href="https://zoominnight.bandcamp.com/album/cosmo">Cosmo</a></p>
+  <p>Cover design for Zoomin‘ Night 燥眠夜's new cassette tape: sorry I missed it <a  href="https://zoominnight.bandcamp.com/album/sorry-i-missed-it">sorry I missed it</a></p>
 
-  <figure>
-    <img src="https://f4.bcbits.com/img/0008752630_10.jpg" width="200"/>
-    <img src="https://f4.bcbits.com/img/0008752632_10.jpg" width="200"/>
-  </figure>
-
-
-  <p>Jam recording with <a href="https://site.douban.com/outbeatcaff/">Luodelai</a>, <a href="https://zoominnight.bandcamp.com">Zhu Wenbo</a> and <a href="http://andreajarales.tumblr.com">Andrea Jarales</a>, <a href="https://futuro475.bandcamp.com/releases">listen here</a></p>
+  <p><a href="http://blog.escdotdot.com/2016/12/18/zhu-wenbo-and-sean-lee-no-performance-and-okra/">New interview</a> by Edward Sanderson, about No Performance and Orka</p>
 
 </section>
 
