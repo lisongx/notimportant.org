@@ -7,7 +7,12 @@ layout: intro
 ### News
 
 <section class="news">
-  <p>Cover design for Zoomin‘ Night 燥眠夜's new cassette tape: sorry I missed it <a  href="https://zoominnight.bandcamp.com/album/sorry-i-missed-it">sorry I missed it</a></p>
+  <p>Cover design for Zoomin‘ Night 燥眠夜's new cassette tape:  <a  href="https://zoominnight.bandcamp.com/album/sorry-i-missed-it">sorry I missed it</a> by Yan Jun</p>
+
+  <figure>
+    <img src="http://7xiq03.com1.z0.glb.clouddn.com/images/sorry-i-missed-it.jpg" alt="Sean Lee" width="400"/>
+  </figure>
+
 
   <p><a href="http://blog.escdotdot.com/2016/12/18/zhu-wenbo-and-sean-lee-no-performance-and-okra/">New interview</a> by Edward Sanderson, about No Performance and Orka</p>
 
