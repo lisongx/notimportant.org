@@ -7,6 +7,8 @@ layout: intro
 ### News
 
 <section class="news">
+  <p>I'm making an application about musicial instrument, <a href="http://eepurl.com/cz4gY1">subscribe</a> this mailing list if you're interested</p>
+
   <p>Cover design for Zoomin‘ Night 燥眠夜's new cassette tape:  <a  href="https://zoominnight.bandcamp.com/album/sorry-i-missed-it">sorry I missed it</a> by Yan Jun</p>
 
   <figure>
