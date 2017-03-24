@@ -8,20 +8,19 @@ layout: intro
 
 <section class="news">
   <ul>
-  <li>
-    <p>I'm making an application about musicial instrument, <a href="http://eepurl.com/cz4gY1">subscribe</a> this mailing list if you're interested</p>
-  </li>
+    <li>
+      <p>Cover design for Zoomin‘ Night 燥眠夜's new cassette tape:  <a  href="https://zoominnight.bandcamp.com/album/2-compositions-for-ensemble-bike-okra">
+  2 compositions for ensemble</a></p>
 
-  <li>
-    <p>Cover design for Zoomin‘ Night 燥眠夜's new cassette tape:  <a  href="https://zoominnight.bandcamp.com/album/sorry-i-missed-it">sorry I missed it</a> by Yan Jun</p>
-    <figure>
-      <img src="http://7xiq03.com1.z0.glb.clouddn.com/images/sorry-i-missed-it.jpg" alt="Sean Lee" width="400"/>
-    </figure>
-  </li>
+      <figure>
+        <img src="http://7xiq03.com1.z0.glb.clouddn.com/images/two_compositions_small.jpg" alt="Sean Lee" width="400"/>
+      </figure>
+    </li>
 
-  <li>
-    <p><a href="http://blog.escdotdot.com/2016/12/18/zhu-wenbo-and-sean-lee-no-performance-and-okra/">New interview</a> by Edward Sanderson, about No Performance and Orka</p>
-  </li>  
+    <li>
+      <p>I'm making an application about musicial instrument, <a href="http://eepurl.com/cz4gY1">subscribe</a> this mailing list if you're interested</p>
+    </li>
+
   </ul>
 </section>
 
