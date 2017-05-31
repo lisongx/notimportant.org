@@ -18,6 +18,10 @@ body {
   padding-top: 10px;
 }
 
+#content {
+  min-height: 300px;
+}
+
 time {
   font-family: $main-font;
 }

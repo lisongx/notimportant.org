@@ -9,11 +9,10 @@ layout: intro
 <section class="news">
   <ul>
     <li>
-      <p>Cover design for Zoomin‘ Night 燥眠夜's new cassette tape:  <a  href="https://zoominnight.bandcamp.com/album/2-compositions-for-ensemble-bike-okra">
-  2 compositions for ensemble</a></p>
+      <p>A new compilation: There is no music for China, will released by <a href="https://zoominnight.bandcamp.com/album/2-compositions-for-ensemble-bike-okra">Zoomin‘ Night 燥眠夜</a> and <a  href="https://endofthealphabetrecords.bandcamp.com/album/there-is-no-music-from-china">End of the Alphabet Records</a> on June 30. Now you can pre order the limited c60 cassette tape at both of their bandcape page.</p>
 
       <figure>
-        <img src="http://7xiq03.com1.z0.glb.clouddn.com/images/two_compositions_small.jpg" alt="Sean Lee" width="400"/>
+        <img src="https://f4.bcbits.com/img/a1465733803_16.jpg" alt="Sean Lee" width="400"/>
       </figure>
     </li>
 
@@ -63,13 +62,13 @@ layout: intro
 </section>
 
 <figure class="me">
-  <img src="{% asset_path sean5.jpg %}" alt="Sean Lee" width="350"/>
+  <img src="{% asset_path profile_by_zhaocong.jpg %}" alt="Sean Lee" width="350"/>
   <figcaption>
-    Playing at taiwan
+    Photo by <a href="https://site.douban.com/zhaocong/">Zhao Cong</a>
   </figcaption>
 </figure>
 
-Hi, my name is Sean. I’m a [software developer][github] and [laptop improviser](http://notimportant.org/event/oschub-20151207/) based in Beijing. I co-organized [Soundleaks](http://www.soundleaks.org), a sound art/tech event.
+Hi, my name is Li Song. I’m a [software developer][github] and [laptop improviser](http://notimportant.org/event/oschub-20151207/) based in Beijing. I co-organized [Soundleaks](http://www.soundleaks.org), a sound art/tech event.
 
 Don't hesitate to write to me if you have something to say:
 
