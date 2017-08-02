@@ -6,7 +6,7 @@ title: Discography
 
 ## 2017
 
-* Li Song: [there is no music from china](https://zoominnight.bandcamp.com/album/there-is-no-music-from-china)
+* Li Song / Various Artists: [there is no music from china](https://zoominnight.bandcamp.com/album/there-is-no-music-from-china)
 
 * No performance: [2 compositions for ensemble](https://zoominnight.bandcamp.com/album/2-compositions-for-ensemble-bike-okra)
 
@@ -15,9 +15,11 @@ title: Discography
 
 * No performance: [Summer of Store](https://zoominnight.bandcamp.com/album/summer-of-store)
 
+* Li Song / Luodelai / Zhu Wenbo / Andrea Jarales: [活着](https://futuro475.bandcamp.com/releases)
+
 ## 2013
 
-* Kunjinkao: [System Error Vol.2 ](https://music.douban.com/subject/25800978/)
+* Kunjinkao / Various Artists: [System Error Vol.2 ](https://music.douban.com/subject/25800978/)
 
 
 <!-- special empty line here -->
