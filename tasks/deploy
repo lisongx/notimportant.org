@@ -1,2 +1,0 @@
-#!/usr/bin/env bash
-jekyll build && rsync -avz --delete _site/ sean@notimportant.org:/home/wwwroot/notimportant.org/
