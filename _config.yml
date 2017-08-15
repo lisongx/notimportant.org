@@ -1,5 +1,6 @@
 markdown: kramdown
-title: Sean Lee
+title: Li SOng
+name: Li Song
 timezone: Asia/Shanghai
 permalink: /:categories/:title
 cdn_path: http://7xiq03.com1.z0.glb.clouddn.com/
