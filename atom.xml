@@ -10,7 +10,7 @@ layout: null
  <updated>{{ site.time | date_to_xmlschema }}</updated>
  <id>http://notimportant.org/</id>
  <author>
-   <name>Sean Lee</name>
+   <name>Li Song</name>
    <email>iseansay@gmail.com</email>
  </author>
 
