@@ -3,7 +3,6 @@ layout: intro
 ---
 
 
-
 {% if site.data['upcoming_events'].size > 0 %}
 
 ### Upcoming Events
@@ -13,6 +12,7 @@ layout: intro
 <section id="events">
   <ol>
     {% for event in site.data['upcoming_events'] %}
+
       <li class="event">
         <p class="title">
           {% if event.content.size > 5 %}
@@ -32,9 +32,9 @@ layout: intro
           <time datetime="{{ event.time | date: date_to_xmlschema}}">
             {{event.time | date: "%I:%M%p, %d %b %Y" }}
           </time>
-          - {{ event.venue }} - <a href="{{ event.link }}">link</a>
+          - {{ event.venue }}
+          - <a href="{{ event.link || event.url  }}">link</a>
         </p>
-
       </li>
     {% endfor %}
   </ol>
