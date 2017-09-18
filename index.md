@@ -46,7 +46,7 @@ layout: intro
 <section class="news">
   <ul>
     <li>
-      <p>A new compilation: There is no music for China, will released by <a href="https://zoominnight.bandcamp.com/album/2-compositions-for-ensemble-bike-okra">Zoomin‘ Night 燥眠夜</a> and <a  href="https://endofthealphabetrecords.bandcamp.com/album/there-is-no-music-from-china">End of the Alphabet Records</a> on June 30. Now you can pre order the limited c60 cassette tape at both of their bandcamp page.</p>
+      <p>A new compilation: There is no music for China, will released by <a href="https://zoominnight.bandcamp.com/album/2-compositions-for-ensemble-bike-okra"><del>Zoomin‘ Night 燥眠夜</del></a> (Sold Out!) and <a  href="https://endofthealphabetrecords.bandcamp.com/album/there-is-no-music-from-china">End of the Alphabet Records</a> on June 30. Now you can pre order the limited c60 cassette tape at both of their bandcamp page.</p>
 
       <figure>
         <img src="https://f4.bcbits.com/img/a1465733803_16.jpg" alt="Sean Lee" width="400"/>
