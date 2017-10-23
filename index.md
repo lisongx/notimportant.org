@@ -32,8 +32,11 @@ layout: intro
           <time datetime="{{ event.time | date: date_to_xmlschema}}">
             {{event.time | date: "%I:%M%p, %d %b %Y" }}
           </time>
-          - {{ event.venue }}
-          - <a href="{{ event.link || event.url  }}">link</a>
+        </p>
+
+        <p>
+          {{ event.venue }} <b>{{ event.city }}</b>
+          <a href="{{ event.link || event.url  }}">link</a>
         </p>
       </li>
     {% endfor %}
