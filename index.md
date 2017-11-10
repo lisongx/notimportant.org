@@ -14,6 +14,12 @@ layout: intro
     {% for event in site.data['upcoming_events'] %}
 
       <li class="event">
+        <p>
+          <time datetime="{{ event.time | date: date_to_xmlschema}}">
+            {{event.time | date: "%I:%M%p, %d %b %Y" }}
+          </time>
+        </p>
+
         <p class="title">
           {% if event.content.size > 5 %}
             <a href="{{ event.url }}">
@@ -28,11 +34,6 @@ layout: intro
           {{ event.description }}
         </p>
 
-        <p>
-          <time datetime="{{ event.time | date: date_to_xmlschema}}">
-            {{event.time | date: "%I:%M%p, %d %b %Y" }}
-          </time>
-        </p>
 
         <p>
           {% if event.city %}
