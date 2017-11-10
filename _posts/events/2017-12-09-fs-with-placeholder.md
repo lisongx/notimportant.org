@@ -1,7 +1,7 @@
 ---
 layout: event
-title: "TBA"
-description: "solo dianzi performance (with place holder from Australia)"
+title: ""
+description: "solo dianzi (support place holder from Australia)"
 time: 2017-12-09 21:00:00 +8
 endtime: 2017-12-09 23:00:00 +8
 venue: fRUITYSPACE

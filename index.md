@@ -20,15 +20,19 @@ layout: intro
           </time>
         </p>
 
-        <p class="title">
-          {% if event.content.size > 5 %}
-            <a href="{{ event.url }}">
+
+        {% if event.title %}
+          <p class="title">
+            {% if event.content.size > 5 %}
+              <a href="{{ event.url }}">
+                {{ event.title }}
+              </a>
+            {% else %}
               {{ event.title }}
-            </a>
-          {% else %}
-            {{ event.title }}
-          {% endif %}
-        </p>
+            {% endif %}
+          </p>
+        {% endif %}
+
 
         <p class="description">
           {{ event.description }}
