@@ -59,10 +59,14 @@ layout: intro
 <section class="news">
   <ul>
     <li>
-      <p>A new compilation: There is no music for China, will released by <a href="https://zoominnight.bandcamp.com/album/2-compositions-for-ensemble-bike-okra"><del>Zoomin‘ Night 燥眠夜</del></a> (Sold Out!) and <a  href="https://endofthealphabetrecords.bandcamp.com/album/there-is-no-music-from-china">End of the Alphabet Records</a> on June 30. Now you can pre order the limited c60 cassette tape at both of their bandcamp page.</p>
+      <p>
+        My new design work: <a href="https://zoominnight.bandcamp.com/album/beijing-2016-2017">Beijing 2016–2017</a> by <a href="http://blog.escdotdot.com/">Edward Sanderson</a>, published by the label Zoomin‘ Night 燥眠夜,
+        available on cassette and/or digital download. More detail on <a hred="zoominnight.bandcamp.com/album/beijing-2016-2017">bandcamp page</a>.
+      </p>
 
-      <figure>
-        <img src="https://f4.bcbits.com/img/a1465733803_16.jpg" alt="Sean Lee" width="400"/>
+      <figure style="display: flex; flex-direction: row;  flex-wrap: nowrap;">
+        <img src="http://7xiq03.com1.z0.glb.clouddn.com/design/zoominnight/zmy016/ed_design_2.jpg" alt="Beijing 2016-2017 By Edward Sanderson" width="200px" height="200px"/>
+        <img src="http://7xiq03.com1.z0.glb.clouddn.com/design/zoominnight/zmy016/ed_design_1.jpg" alt="Beijing 2016-2017 By Edward Sanderson" width="200px" height="200px"/>
       </figure>
     </li>
 
