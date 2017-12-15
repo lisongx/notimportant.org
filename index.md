@@ -61,7 +61,7 @@ layout: intro
     <li>
       <p>
         My new design work: <a href="https://zoominnight.bandcamp.com/album/beijing-2016-2017">Beijing 2016–2017</a> by <a href="http://blog.escdotdot.com/">Edward Sanderson</a>, published by the label Zoomin‘ Night 燥眠夜,
-        available on cassette and/or digital download. More detail on <a hred="zoominnight.bandcamp.com/album/beijing-2016-2017">bandcamp page</a>.
+        available on cassette and/or digital download. More detail on <a href="zoominnight.bandcamp.com/album/beijing-2016-2017">bandcamp page</a>.
       </p>
 
       <figure style="display: flex; flex-direction: row;  flex-wrap: nowrap;">
