@@ -81,7 +81,7 @@ layout: intro
 
 
 <figure class="me">
-  <img src="{% asset_path profile_by_zhaocong.jpg %}" alt="Sean Lee" width="350"/>
+  <img src="{% asset_path profile_by_zhaocong.jpg %}" alt="Li Song" width="350"/>
   <figcaption>
     Photo by <a href="https://site.douban.com/zhaocong/">Zhao Cong</a>
   </figcaption>
