@@ -1,7 +1,7 @@
 ---
 layout: event
 title: "ThereBe life"
-description: "opening performnce for guibog's robot Exhibition"
+description: "opening performance for guibog's robot Exhibition"
 time: 2017-03-04 19:00:00 +8
 endtime: 2017-03-04 23:30:00 +8
 venue: fRUITYSPACE
