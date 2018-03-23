@@ -60,17 +60,17 @@ layout: intro
   <ul>
     <li>
       <p>
-        My new design work: <a href="https://zoominnight.bandcamp.com/album/beijing-2016-2017">Beijing 2016–2017</a> by <a href="http://blog.escdotdot.com/">Edward Sanderson</a>, published by the label Zoomin‘ Night 燥眠夜,
-        available on cassette and/or digital download. More detail on <a href="https://zoominnight.bandcamp.com/album/beijing-2016-2017">bandcamp page</a>.
+        New design work for cassette tape: <a href="https://zoominnight.bandcamp.com/album/harvesting-pumpkins-before-winter">Harvesting Pumpkins Before Winter
+        </a> by <a href="https://zhuwenbo.bandcamp.com/">Zhu Wenbo</a> and <a href="https://soundcloud.com/p-pgr/">Paolo Gàiba Riva</a>, published by the label <a href="https://zoominnight.bandcamp.com/">Zoomin‘ Night</a>,
+        available on cassette and digital download. Detail at <a href="https://zoominnight.bandcamp.com/album/harvesting-pumpkins-before-winter">here</a>.
       </p>
 
       <figure style="display: flex; flex-direction: row;  flex-wrap: nowrap;">
-        <img src="http://7xiq03.com1.z0.glb.clouddn.com/design/zoominnight/zmy016/ed_design_2.jpg" alt="Beijing 2016-2017 By Edward Sanderson" width="200px" height="200px"/>
-        <img src="http://7xiq03.com1.z0.glb.clouddn.com/design/zoominnight/zmy016/ed_design_1.jpg" alt="Beijing 2016-2017 By Edward Sanderson" width="200px" height="200px"/>
+        <img src="http://7xiq03.com1.z0.glb.clouddn.com/zmy018.png" alt="Harvesting Pumpkins Before Winter" width="300" height="300"/>
       </figure>
     </li>
 
-    <li>
+    <li>      
       <p>I'm making an application about musicial instrument, <a href="http://eepurl.com/cz4gY1">subscribe</a> this mailing list if you're interested</p>
     </li>
 
