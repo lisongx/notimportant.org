@@ -42,7 +42,11 @@ layout: intro
         <p>
           {% if event.city %}
             {{ event.venue }}, <b>{{ event.city }}</b>
-            <a href="{{ event.link || event.url  }}">link</a>
+
+            {% if event.link %}
+              <a href="{{ event.link || event.url  }}">link</a>
+            {% endif %}
+
           {% else %}
             {{ event.venue }}
           {% endif %}

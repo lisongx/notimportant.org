@@ -36,8 +36,11 @@ title: Events
         <time datetime="{{ event.time | date: date_to_xmlschema }}">
           {{ event.time | date: "%I:%M%p, %d %b %Y" }}
         </time>
-        - {{ event.venue }} -
-        <a href="{{ event.link }}">info</a>
+        - {{ event.venue }}
+
+        {% if event.link %}
+          <a href="{{ event.link }}">link</a>
+        {% endif %}
       </li>
     {% endfor %}
   </ol>
