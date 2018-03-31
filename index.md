@@ -16,7 +16,7 @@ layout: intro
       <li class="event">
         <p>
           <time datetime="{{ event.time | date: date_to_xmlschema}}">
-            {{event.time | date: " %Y %b %d, %I:%M%p" }}
+            {{event.time | date: "%b %d, %Y, %I:%M%p" }}
           </time>
         </p>
 
