@@ -1,10 +1,10 @@
 ---
 layout: event
-title: play <a href="http://www.yanjun.org/">yanjun</a>'s piece, detail coming soon
-description:
+title: improvisation and composition
+description: w/ yanjun, yan yulong and others
 time: 2018-04-27 14:00:00 +8
 endtime: 2018-04-27 18:00:00 +8
-venue: MaybeMars office
+venue: Maybe mars 20% space
 location: TBA
 category: event
 city: beijing

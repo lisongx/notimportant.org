@@ -12,7 +12,7 @@ category: event
 
 ### Performers
 
-* [Sean Lee (Beijing)](http://notimportant.org)
+* [Li Song(Beijing)](http://notimportant.org)
 
 * [Tadashi Usami (Tokyo)](http://oschub.asia/weblog/)
 

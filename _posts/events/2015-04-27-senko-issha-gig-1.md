@@ -13,7 +13,7 @@ category: event
 
 ## Recordings
 
-### Zhu Wenbo (bass clarinet) Sean Lee (guitar, laptop)
+### Zhu Wenbo (bass clarinet) Li Song (guitar, laptop)
 
 <audio src="{{site.cdn_path}}zhuwenbo+seanlee.mp3" controls="">
 </audio>
@@ -22,7 +22,7 @@ category: event
 
 <audio src="{{site.cdn_path}}zhuwenbo+animalhuang+xiezhongqi.mp3" controls=""></audio>
 
-### Xie Zhongqi (sampler) Sean Lee (laptop)
+### Xie Zhongqi (sampler) Li Song (laptop)
 
 <audio src="{{site.cdn_path}}seanlee+xiezhongqi.mp3" controls=""></audio>
 
