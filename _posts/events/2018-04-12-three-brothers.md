@@ -11,8 +11,9 @@ city: beijing
 ---
 
 
-### Solo Recordig (21:30)
+### Live Recording (21:30)
 
+Solo performance by Li Song (laptop).
 Recorded and mastered by <a href="https://site.douban.com/petface/">Li Yan</a>
 
 <audio src="{{site.cdn_path}}2018-04-13-lisong-at-fruityspace.mp3" controls="">
