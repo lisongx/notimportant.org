@@ -1,6 +1,6 @@
 ---
 layout: event
-title: ""
+title: "3 ge ge"
 description: with <a href="https://site.douban.com/noise666/">Ding Chenchen</a>, <a href="https://site.douban.com/petface">Li Yan</a>
 time: 2018-04-12 21:00:00 +8
 endtime: 2018-04-12 23:30:00 +8
