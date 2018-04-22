@@ -2,14 +2,19 @@
 layout: default
 title: 安装TidalCycles
 ---
-# 安装TidalCycles
 
-If you don't understand Chinese, please refer to the [english guide](https://tidalcycles.org/getting_started.html).
+# 安装软件
+
+If you don't understand Chinese, please refer to this [english guide](https://tidalcycles.org/getting_started.html).
+
+我们的Workshop需要使用TidalCycles和它依赖的相关软件，安装过程可能花费你30分钟到1小时的时间。很抱歉目前没有更好的办法可以方便的一次安装所有的软件，但是它会变得越来越好。
+
+如果有任何安装问题，请邮件至<iseansay@gmail.com>。
 
 
 # 开始安装
 
-要使用TidalCycles，你还需要其他软件：SuperCollider（负责声音合成），Atom（编辑器，是你输入代码的地方），SuperDirt（是SuperCollider的一个扩展）。很抱歉目前没有更好的办法可以方便的一次安装所有的软件，但是它会变得越来越好 :D
+要使用TidalCycles，你还需要其他软件：SuperCollider（负责声音合成），Atom（编辑器，是你输入代码的地方），SuperDirt（是SuperCollider的一个扩展）。
 
 # 安装TidalCycles
 
