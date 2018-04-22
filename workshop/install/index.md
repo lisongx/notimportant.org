@@ -16,7 +16,7 @@ If you don't understand Chinese, please refer to this [english guide](https://ti
 
 要使用TidalCycles，你还需要其他软件：SuperCollider（负责声音合成），Atom（编辑器，是你输入代码的地方），SuperDirt（是SuperCollider的一个扩展）。
 
-你可以在MacOS、Windows和Linux下安装**TidalCycles**
+你可以在MacOS、Windows和Linux下安装**TidalCycles**，点击下面三个链接中任意一个跳到你所在操作系统的教程。
 
 * [macOS](#macos)
 * [Windows](#windows)
