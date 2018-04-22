@@ -3,7 +3,7 @@ layout: default
 title: 安装TidalCycles
 ---
 
-# 安装软件
+# 安装软件[约30分钟到1小时]
 
 If you don't understand Chinese, please refer to this [english guide](https://tidalcycles.org/getting_started.html).
 
@@ -15,8 +15,6 @@ If you don't understand Chinese, please refer to this [english guide](https://ti
 # 开始安装
 
 要使用TidalCycles，你还需要其他软件：SuperCollider（负责声音合成），Atom（编辑器，是你输入代码的地方），SuperDirt（是SuperCollider的一个扩展）。
-
-# 安装TidalCycles
 
 你可以在MacOS、Windows和Linux下安装**TidalCycles**
 
