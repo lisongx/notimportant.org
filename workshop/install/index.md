@@ -49,9 +49,7 @@ the instructions there. -->
 cabal install tidal
 ~~~~
 
-> 如果你不知道如何打开终端
-> 在Mac OS下是 "应用程序 -> 实用工具 -> 终端"
-> 英文操作系统为 "Applications -> Utilities -> Terminal"
+> 如果你不知道如何打开终端，在Mac OS下是 "应用程序 -> 实用工具 -> 终端"；英文操作系统为 "Applications -> Utilities -> Terminal"
 
 
 ### 3. 安装SuperDirt
@@ -119,8 +117,7 @@ the `SC3plugins` directory. -->
 cabal install tidal 
 ~~~~
 
-> 如果你不知道如何打开终端窗口:
-> 在 Windows 下是 Accessories 中的 "command prompt"
+> 如果你不知道如何打开终端窗口: 在 Windows 下是 Accessories 中的 "command prompt"
 
 ### 3. 安装SuperDirt
 
