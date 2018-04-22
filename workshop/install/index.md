@@ -157,9 +157,7 @@ include("SuperDirt")
 
 ### 1. 第一步
 
-你需要首先安装以下软件：
-
-[Haskell Stack](https://www.haskellstack.org/),
+你需要首先安装以下软件：[Haskell Stack](https://www.haskellstack.org/),
 [Atom](https://atom.io/),
 [SuperCollider](http://supercollider.github.io/download) and
 [Git](https://git-scm.com/).
