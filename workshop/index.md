@@ -10,7 +10,7 @@ title: "Workshop: Live Coding Music with Free Software"
 
 **Time**: 2018/05/13，4PM - 5:30PM
 
-**Venue**: CAFA, Room to be announced
+**Venue**: CAFA Building 5, E2-114; 中央美术学院艺术与科技中心（5号楼E2-114）
 
 **Cost**: Free
 
