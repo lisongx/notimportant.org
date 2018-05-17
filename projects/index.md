@@ -5,54 +5,50 @@ title: Projects
 
 # Projects
 
-## Library
 
-### [douban_api][douban_api_github]
+## Music
 
-A Simple Ruby wrapper for [Douban API V2][douban_api_doc]
+### [Soundleaks](http://www.soundleaks.org/)
+
+Sound art/tech event in China, we hold workshops, lecture and concert for anything related to sound.
+
+### No Performance
+
+Duo with [Zhu Wenbo][zhuwenbo], we make both electronic and acoustic, composed and improvised music. Debut album [Summer of Store][summer_of_store] released in 2016.
+
+[summer_of_store]: https://zoominnight.bandcamp.com/album/summer-of-store
+[zhuwenbo]: https://zhuwenbo.bandcamp.com/
 
 
-[douban_api_github]: https://github.com/seansay/douban_api
-[douban_api_doc]: http://developers.douban.com/wiki/?title=api_v2
+### [kunjinkao](http://www.kunjinkao.org/)
+
+Audiovisual duo with Perry Pan, formed in 2012 in the  [System Error][system_error] label. We wrote computer programme to generative audio visual during the [performance][kunjinkao_video].
+
+[system_error]: http://site.douban.com/System-error/
+[kunjinkao_video]: http://site.douban.com/kunjinkao/widget/videos/13803886/video/319234/
 
 
 ## Software
 
+### [atom-tidal](https://github.com/seansay/atom-tidal)
+
+The atom editor plugin to the live coding language [tidalcycles][tidal], which made it into the official editor later.
+
+[tidal]: https://tidalcycles.org/
+
+### [wikidata-graphql](https://github.com/seansay/wikidata-graphql)
+
+An experiments on exporting the world's largest free knowledge-base [wikidata][wikidata] on a developer friendly graphql.
+
+[wikidata]: http://www.wikidata.org/
+
 ### [Small Black Dog](http://fm.littletouch.org/)
 
-A internet radio that play randomly good music powered by reddit user post.
-
-
-### [colorRelease](http://color.littletouch.org/)
-
-Discovery new released album by artwork color, created in Static Showdown 2015
+A internet radio (for weirdos) that play randomly good music powered by reddit user post and youtube videos.
 
 ### [glitch-img](http://www.kunjinkao.org/glitch-img/)
 
-A web component to glitch your \<img\>
-
-
-### [Coursera Alfred][alfred_github]
-
-A Chrome Extension to help Coursera users to keep track of all the deadlines they have. It's open source and released under the MIT License, has several contributers.
-
-[alfred_github]: https://github.com/xiuxiude/coursera_alfred
-
-
-### [diumoo][diumoo_site]
-
-A sepcial [Douban FM][douban_fm] client for OS X, besides the cross browser userscript [diumoo helper][diumoo_helper], I also name this project.
-
-[diumoo_site]: http://diumoo.net/
-[douban_fm]: http://douban.fm
-[diumoo_helper]: http://diumoo.net/extensions/
-
-
-### [Bookit][bookit_site]
-
-A cross platform (botn mobile and web) app to help university students in China to find books they want in library.
-
-[bookit_site]: http://bookitapp.org/
+A web component to glitch your \<img\>.
 
 
 ### [doubanIMDb][douban_imdb_github]
@@ -62,11 +58,9 @@ A simple browser tool help Douban movie users see the rating from IMDb and Rotte
 [douban_imdb_github]: https://github.com/seansay/doubanIMDb
 
 
-## Other
+### [douban_api][douban_api_github]
 
-### [The Setup][the_setup]
+A Simple Ruby wrapper for [Douban API V2][douban_api_doc]
 
-A fork of the original [The Setup][the_setup_original] for Chinese readers.
-
-[the_setup]: http://setup.littletouch.org/
-[the_setup_original]: http://www.usesthis.com/
+[douban_api_github]: https://github.com/seansay/douban_api
+[douban_api_doc]: http://developers.douban.com/wiki/?title=api_v2
