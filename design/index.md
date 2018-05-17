@@ -5,7 +5,7 @@ title: Design
 
 # Design
 
-I've help design several covers for [Zoomin' Night](https://zoominnight.bandcamp.com/)'s cassette tape release, as well as concert posters for improvised/experimental music events happened in Beijing.
+I've help design several covers for [Zoomin' Night](https://zoominnight.bandcamp.com/)'s cassette tape releases, as well as concert posters for improvised/experimental music events happened in Beijing.
 
 (Details coming soon……)
 
