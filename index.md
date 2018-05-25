@@ -64,17 +64,17 @@ layout: intro
   <ul>
     <li>
       <p>
-        New design work for cassette tape: <a href="https://zoominnight.bandcamp.com/album/harvesting-pumpkins-before-winter">Harvesting Pumpkins Before Winter
-        </a> by <a href="https://zhuwenbo.bandcamp.com/">Zhu Wenbo</a> and <a href="https://soundcloud.com/p-pgr/">Paolo Gàiba Riva</a>, published by the label <a href="https://zoominnight.bandcamp.com/">Zoomin‘ Night</a>,
+        New design work for cassette tape: <a href="https://zoominnight.bandcamp.com/album/5-compositions">5 Compositions
+        </a> by <a href="https://zhuwenbo.bandcamp.com/">Zhu Wenbo</a> and <a href="https://site.douban.com/zhaocong/">Zhao Cong</a>, published by the label <a href="https://zoominnight.bandcamp.com/">Zoomin‘ Night</a>,
         available on cassette and digital download. Detail at <a href="https://zoominnight.bandcamp.com/album/harvesting-pumpkins-before-winter">here</a>.
       </p>
 
       <figure style="display: flex; flex-direction: row;  flex-wrap: nowrap;">
-        <img src="http://7xiq03.com1.z0.glb.clouddn.com/zmy018.png" alt="Harvesting Pumpkins Before Winter" width="300" height="300"/>
+        <img src="http://7xiq03.com1.z0.glb.clouddn.com/zmy021.jpg" alt="5 Compositions" width="300" height="300"/>
       </figure>
     </li>
 
-    <li>      
+    <li>
       <p>I'm making an application about musicial instrument, <a href="http://eepurl.com/cz4gY1">subscribe</a> this mailing list if you're interested</p>
     </li>
 
