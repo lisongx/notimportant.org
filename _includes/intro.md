@@ -1,5 +1,5 @@
 <figure class="me">
-    <img src="{% asset_path sean3.jpg %}" alt="Sean Lee" width="350"/>
+    <img src="{% asset_path sean3.jpg %}" alt="Li Song" width="350"/>
     <figcaption>photo by Zila He</figcaption>
 </figure>
 
@@ -9,7 +9,7 @@ Now I am doing my B.E in Xi’an.
 
 I do web development with Python and Javascript, both front-end and back-end. And I'm a big fan of [Web Components][web_components] and [Static Web Applications][staticapps]. You can read all my open source code at [GitHub][github].
 
-I like learning new things, from [Funtional Programming][progfun] to [Astrobiology][astrobiology]. 
+I like learning new things, from [Funtional Programming][progfun] to [Astrobiology][astrobiology].
 
 I'm also a member of [System Error][system_error], a local indie experimental music organization in which I make [audiovisual art][kunjinkao_video] by code. We just release the 2nd Anniversary Compilation, you can buy this record at [here][se2].
 

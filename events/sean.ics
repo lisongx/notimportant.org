@@ -3,14 +3,14 @@ layout: null
 ---
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-////Sean Lee Events //EN
-X-WR-CALNAME:Sean Lee - Events
+PRODID:-////Li Song Events //EN
+X-WR-CALNAME:Li Song - Events
 X-ORIGINAL-URL:http://notimportant.org/events/sean.ics
 X-WR-TIMEZONE:Asia/Shanghai
 METHOD:PUBLISH
 {% for event in site.categories.event limit:10 %}BEGIN:VEVENT
 UID:{{ event.time | date: "%Y%m%d" }}@notimportant.org
-ORGANIZER;CN=Sean Lee:MAILTO:iseansay@gmail.com
+ORGANIZER;CN=Li Song:MAILTO:iseansay@gmail.com
 LOCATION:{{ event.location }}
 SUMMARY:{{ event.title }} detail at {{ event.link }}
 CLASS:PUBLIC

@@ -27,7 +27,7 @@ By AnZi
 
 ### Audio Recording of the Trio
 
-Vavabond (laptop), Zhu Wenbo (bass clarinet, tape recorder, drum) and Sean Lee (laptop)
+Vavabond (laptop), Zhu Wenbo (bass clarinet, tape recorder, drum) and Li Song (laptop)
 
 <audio src="{{site.cdn_path}}noperform+vavabond.mp3" controls="">
 </audio>
