@@ -63,7 +63,7 @@ layout: intro
 <section class="news">
   <ul>
     <li>
-      <p>I'm writing an interactive guide on <a href="beats.notimportant.org">👂Binaural Beats👂</a>, stay tunned!</p>
+      <p>I'm writing an interactive guide on <a href="https://beats.notimportant.org">👂Binaural Beats👂</a>, stay tunned!</p>
     </li>
 
     <li>
