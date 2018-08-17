@@ -31,8 +31,3 @@ I've help design several covers for [Zoomin' Night](https://zoominnight.bandcamp
     <img src="{{site.cdn_path}}design/zoominnight-2015-06-23.webp" width="400px"/>
   </div>
 </div>
-
-
-
-
-If you're interested in hiring me for design works, feel free to contact me at iseansay at gmail dot com.
