@@ -65,7 +65,7 @@ layout: intro
 
     <li>
       <p>
-      An online exhibition by me and Feng Qiushi: We found the remains of the Beijing 2008 Olympics in this city after 10 years of the event. Visit <a href="https://2008.notimportant.org/">here</a>(text only in Chinese, for better sound quality please use a headphone if you can).
+      An online exhibition by me and Feng Qiushi: We found the remains of the Beijing 2008 Olympics in this city after 10 years of the event. Visit <a href="https://2008.notimportant.org/">here</a> (text only in Chinese, for better sound quality please use a headphone if you can).
       </p>
     </li>
 
