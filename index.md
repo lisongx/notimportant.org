@@ -92,5 +92,5 @@ Don't hesitate to write to me if you have something to say:
 <iseansay@gmail.com>
 
 
-[github]: http://github.com/seansay
+[github]: http://github.com/lisongx
 [email]: mailto:iseansay@gmail.com

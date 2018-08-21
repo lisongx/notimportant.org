@@ -20,7 +20,7 @@ Contact: iseansay at gmail dot com
 [xian]: http://en.wikipedia.org/wiki/Xi%27an
 [web_components]: http://www.w3.org/TR/components-intro/
 [staticapps]: http://www.staticapps.org/
-[github]: http://github.com/seansay
+[github]: http://github.com/lisongx
 [astrobiology]: /certificates/astrobio.pdf
 [progfun]: /certificates/progfun.pdf
 [system_error]: http://site.douban.com/System-error/
