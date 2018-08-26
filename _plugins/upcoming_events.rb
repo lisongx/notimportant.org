@@ -3,7 +3,7 @@ module UpComingEvents
     def generate(site)
 
       site.data['upcoming_events'] = site.posts.select {|event|
-        event.categories.include?('event') and event.date >= site.time
+        event.categories.include?('event') and event.time >= site.time
       }
 
     end
