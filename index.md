@@ -87,7 +87,7 @@ layout: intro
   </figcaption>
 </figure>
 
-Hi, my name is Li Song. I’m a [software developer][github] and [computer musician](http://notimportant.org/event/oschub-20151207/) based in Beijing. I co-organized [Soundleaks](http://www.soundleaks.org), a sound art/tech event.
+Hi, my name is Li Song. I’m a [software developer][github] and [computer musician](http://notimportant.org/event/oschub-20151207/) based in <del>Beijing</del>(🚄 Moving soon！). I co-organized [Soundleaks](http://www.soundleaks.org), a sound art/tech event.
 
 Don't hesitate to write to me if you have something to say:
 
@@ -95,4 +95,4 @@ Don't hesitate to write to me if you have something to say:
 
 
 [github]: http://github.com/lisongx
-[email]: mailto:iseansay@gmail.com
+[email]: mailto:iseansay@gmail.com✈️
