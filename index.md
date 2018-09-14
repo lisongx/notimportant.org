@@ -2,7 +2,6 @@
 layout: intro
 ---
 
-
 {% if site.data['upcoming_events'].size > 0 %}
 
 ### Upcoming Events
@@ -54,14 +53,19 @@ layout: intro
         </p>
       </li>
     {% endfor %}
+
   </ol>
 </section>
-
 
 ### News
 
 <section class="news">
   <ul>
+
+    <li>
+      <p>New mix: <a href="https://www.mixcloud.com/li-song/do-not-trust-music-1/">Do not trust music #1</a>
+      </p>
+    </li>
 
     <li>
       <p>
@@ -74,11 +78,9 @@ layout: intro
     <li>
       <p>I'm writing an interactive guide on 👂<a href="https://beats.notimportant.org">Binaural Beats</a>👂, stay tunned!</p>
     </li>
+
   </ul>
 </section>
-
-
-
 
 <figure class="me">
   <img src="{% asset_path profile_by_zhaocong.jpg %}" alt="Li Song" width="350"/>
@@ -92,7 +94,6 @@ Hi, my name is Li Song. I’m a [software developer][github] and [computer music
 Don't hesitate to write to me if you have something to say:
 
 <iseansay@gmail.com>
-
 
 [github]: http://github.com/lisongx
 [email]: mailto:iseansay@gmail.com✈️
