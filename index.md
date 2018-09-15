@@ -63,12 +63,6 @@ layout: intro
   <ul>
 
     <li>
-      <p>New mix: <a href="https://www.mixcloud.com/li-song/do-not-trust-music-1/">Do not trust music #1</a>
-      </p>
-      <iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&mini=1&light=1&feed=%2Fli-song%2Fdo-not-trust-music-1%2F" frameborder="0" ></iframe>
-    </li>
-
-    <li>
       <p>
       An online exhibition by me and Feng Qiushi: We found the remains of the Beijing 2008 Olympics in this city a decade after the event. Visit <a href="https://2008.notimportant.org/">here</a> (text only in Chinese, for better sound quality please use a headphone if you can).
 
