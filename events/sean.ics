@@ -10,7 +10,7 @@ X-WR-TIMEZONE:Asia/Shanghai
 METHOD:PUBLISH
 {% for event in site.categories.event limit:10 %}BEGIN:VEVENT
 UID:{{ event.time | date: "%Y%m%d" }}@notimportant.org
-ORGANIZER;CN=Li Song:MAILTO:iseansay@gmail.com
+ORGANIZER;CN=Li Song:MAILTO:lisong@notimportant.org
 LOCATION:{{ event.location }}
 SUMMARY:{{ event.title }} detail at {{ event.link }}
 CLASS:PUBLIC

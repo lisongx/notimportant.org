@@ -88,7 +88,7 @@ Hi, my name is Li Song. I’m a [software developer][github] and [computer music
 
 Don't hesitate to write to me if you have something to say:
 
-<iseansay@gmail.com>
+<lisong@notimportant.org>
 
 [github]: http://github.com/lisongx
-[email]: mailto:iseansay@gmail.com✈️
+[email]: mailto:lisong@notimportant.com✈️

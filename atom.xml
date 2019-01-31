@@ -11,7 +11,7 @@ layout: null
  <id>http://notimportant.org/</id>
  <author>
    <name>Li Song</name>
-   <email>iseansay@gmail.com</email>
+   <email>lisong@notimportant.com</email>
  </author>
 
  {% for post in site.posts %}
