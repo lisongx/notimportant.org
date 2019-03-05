@@ -3,6 +3,6 @@ title: Li Song
 name: Li Song
 timezone: Asia/Shanghai
 permalink: /:categories/:title
-cdn_path: http://7xiq03.com1.z0.glb.clouddn.com/
+cdn_path: https://s3.eu-west-2.amazonaws.com/notimportant/archive/
 assets:
   css_compressor: sass
