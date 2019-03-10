@@ -70,10 +70,6 @@ layout: intro
       <p>In media: <a href="http://www.vice.cn/read/a-decade-after-beijing-2008">Vice.cn</a></p>
     </li>
 
-    <li>
-      <p>I'm writing an interactive guide on 👂<a href="https://beats.notimportant.org">Binaural Beats</a>👂, stay tunned!</p>
-    </li>
-
   </ul>
 </section>
 
