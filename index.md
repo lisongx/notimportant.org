@@ -57,21 +57,17 @@ layout: intro
   </ol>
 </section>
 
+<!-- 
 ### News
 
 <section class="news">
   <ul>
 
     <li>
-      <p>
-      An online exhibition by me and Feng Qiushi: We found the remains of the Beijing 2008 Olympics in this city a decade after the event. Visit <a href="https://2008.notimportant.org/">here</a> (text only in Chinese, for better sound quality please use a headphone if you can).
-
-      </p>
-      <p>In media: <a href="http://www.vice.cn/read/a-decade-after-beijing-2008">Vice.cn</a></p>
     </li>
 
   </ul>
-</section>
+</section> -->
 
 <figure class="me">
   <img src="{% asset_path profile_by_zhaocong.jpg %}" alt="Li Song" width="350"/>
