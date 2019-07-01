@@ -1,7 +1,7 @@
 markdown: kramdown
 title: Li Song
 name: Li Song
-timezone: Asia/Shanghai
+timezone: Europe/London
 permalink: /:categories/:title
 cdn_path: https://s3.eu-west-2.amazonaws.com/notimportant/archive/
 assets:
