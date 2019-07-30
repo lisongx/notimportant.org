@@ -10,3 +10,6 @@ link: https://hellogoodbyeshow.com/2019/07/25/hg-info-27-07-19-18-different-arti
 category: event
 city: london
 ---
+
+Listen to the live recording(start around 14:20)
+https://www.mixcloud.com/Resonance/the-hello-goodbye-show-27th-july-2019/
