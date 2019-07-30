@@ -12,4 +12,5 @@ city: london
 ---
 
 Listen to the live recording(start around 14:20)
-https://www.mixcloud.com/Resonance/the-hello-goodbye-show-27th-july-2019/
+
+[https://www.mixcloud.com/Resonance/the-hello-goodbye-show-27th-july-2019/](https://www.mixcloud.com/Resonance/the-hello-goodbye-show-27th-july-2019/)
