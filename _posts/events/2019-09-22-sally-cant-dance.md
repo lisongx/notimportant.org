@@ -10,7 +10,3 @@ link: https://mp.weixin.qq.com/s/CoSsQV9CRl6LGHz2gZ6abg
 category: event
 city: shanghai
 ---
-
-Listen to the live recording(start around 14:20)
-
-[https://www.mixcloud.com/Resonance/the-hello-goodbye-show-27th-july-2019/](https://www.mixcloud.com/Resonance/the-hello-goodbye-show-27th-july-2019/)
