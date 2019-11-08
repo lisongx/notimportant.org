@@ -1,7 +1,7 @@
 ---
 layout: event
 title: Maybe Noise Exhibition, Three Pieces About Centrifugal Circular
-description: Screening of the performance of my composition "62, 63, 64"for three
+description: video recording of the performance of my composition "62, 63, 64"
 time: 2019-11-09 12:00:00 +8
 endtime: 2019-12-01 17:00:00 +8
 venue: Maybe Mars 20% space
