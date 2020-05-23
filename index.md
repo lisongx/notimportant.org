@@ -55,17 +55,18 @@ layout: intro
   </ol>
 </section>
 
-<!--
 ### News
 
 <section class="news">
   <ul>
-
     <li>
+      <a href="https://zoominnight.bandcamp.com/album/30-minutes-on-earth" target="_blank">
+      30 minutes on earth
+      </a> by Zhu Wenbo released in April 2020 by Zoomin' Night. I was one of the eight musicians who contributed to
+      this field-recording piece.
     </li>
-
   </ul>
-</section> -->
+</section>
 
 <figure class="me">
   <img src="{% asset_path profile_by_zhaocong.jpg %}" alt="Li Song" width="350"/>
