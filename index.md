@@ -62,7 +62,7 @@ layout: intro
     <li>
       <a href="https://zoominnight.bandcamp.com/album/30-minutes-on-earth" target="_blank">
       30 minutes on earth
-      </a> by Zhu Wenbo released in April 2020 by Zoomin' Night. I was one of the eight musicians who contributed to
+      </a> by Zhu Wenbo released in April 2020 by the Zoomin' Night label. I was one of the eight musicians who contributed to
       this field-recording piece.
     </li>
   </ul>
