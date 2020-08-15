@@ -4,11 +4,16 @@ title: Discography
 ---
 # Discography
 
+## 2020
+
+* Li Song / Various Artists: [Compassion through Algorithms](https://algorave-tokyo.bandcamp.com/)
+* Li Song / Various Artists: [Field Music and Non​-Music for Tian Ye](http://leapleapleap.bandcamp.com/)
+
 ## 2017
 
 * Li Song / Various Artists: [there is no music from china](https://zoominnight.bandcamp.com/album/there-is-no-music-from-china)
 
-* No performance: [2 compositions for ensemble](https://zoominnight.bandcamp.com/album/2-compositions-for-ensemble-bike-okra)
+* No performance / Zhu Wenbo: [2 compositions for ensemble](https://zoominnight.bandcamp.com/album/2-compositions-for-ensemble-bike-okra)
 
 
 ## 2016
@@ -26,7 +31,7 @@ title: Discography
 <br/>
 <hr/>
 
-## Some older digital works
+## Early digital only works
 
 All works below are licensed under [CC-BY](https://creativecommons.org/licenses/by/4.0/) license.
 

@@ -60,6 +60,15 @@ layout: intro
 <section class="news">
   <ul>
     <li>
+      New track
+      <a href="https://algorave-tokyo.bandcamp.com/track/pulse-23" target="_blank">
+      Pulse 23
+      </a> included in Compassion through Algorithms
+    </li>
+  </ul>
+
+  <ul>
+    <li>
       <a href="https://zoominnight.bandcamp.com/album/30-minutes-on-earth" target="_blank">
       30 minutes on earth
       </a> by Zhu Wenbo released in April 2020 by the Zoomin' Night label. I was one of the eight musicians who contributed to
@@ -75,7 +84,7 @@ layout: intro
   </figcaption>
 </figure>
 
-Hi, my name is Li Song. I’m a [computer musician](http://notimportant.org/event/oschub-20151207/) and [software engineer][github] at Mixcloud. I co-organized [Soundleaks](http://www.soundleaks.org), a sound art/tech event.
+Hi, my name is Li Song. I’m a [musician](http://notimportant.org/event/oschub-20151207/) and [software engineer][github] based in Londn. I co-organized [Soundleaks](http://www.soundleaks.org), a sound art/tech event.
 
 Don't hesitate to write to me if you have something to say:
 
