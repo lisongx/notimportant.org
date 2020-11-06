@@ -62,7 +62,7 @@ layout: intro
     <li>
       <a href="https://zoominnight.bandcamp.com/album/voices-from-green-pines" target="_blank">
         Voices from Green Pines
-      </a> curated by Zhu Wenbo released on cassette and digital
+      </a> curated by Zhu Wenbo released in cassette and digital via bandcamp
     </li>
   </ul>
 
