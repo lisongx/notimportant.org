@@ -60,6 +60,14 @@ layout: intro
 <section class="news">
   <ul>
     <li>
+      <a href="https://zoominnight.bandcamp.com/album/voices-from-green-pines" target="_blank">
+        Voices from Green Pines
+      </a> curated by Zhu Wenbo released on cassette and digital
+    </li>
+  </ul>
+
+  <ul>
+    <li>
       New track
       <a href="https://algorave-tokyo.bandcamp.com/track/pulse-23" target="_blank">
       Pulse 23
@@ -67,14 +75,6 @@ layout: intro
     </li>
   </ul>
 
-  <ul>
-    <li>
-      <a href="https://zoominnight.bandcamp.com/album/30-minutes-on-earth" target="_blank">
-      30 minutes on earth
-      </a> by Zhu Wenbo released in April 2020 by the Zoomin' Night label. I was one of the eight musicians who contributed to
-      this field-recording piece.
-    </li>
-  </ul>
 </section>
 
 <figure class="me">

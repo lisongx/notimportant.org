@@ -6,6 +6,8 @@ title: Discography
 
 ## 2020
 
+* Aoi Tagami, Li Song, Xiang: [Voices from Green Pines](https://zoominnight.bandcamp.com/album/voices-from-green-pines)
+
 * Li Song / Various Artists: [Compassion through Algorithms](https://algorave-tokyo.bandcamp.com/)
 
 * Li Song / Various Artists: [Field Music and Non​-Music for Tian Ye](http://leapleapleap.bandcamp.com/)
