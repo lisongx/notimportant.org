@@ -19,11 +19,24 @@ body {
   background: url(asset_path("background.jpg"));
   background-size: 70px;
   background-repeat: repeat-x;
-
 }
 
 #content {
   min-height: 300px;
+}
+
+#home-drawing {
+  position: fixed;
+  z-index: -1;
+  top: 50px;
+  left: 50%;
+  transform: translateX(calc(-50% + 200px));
+  width: 500px;
+  height: 500px;
+  background: url(asset_path("home.png"));
+  background-size: 350px;
+  background-position: top 0 right 0;
+  background-repeat: no-repeat;
 }
 
 time {
