@@ -16,6 +16,10 @@ body {
   color: #222;
   font-size: 16px;
   padding-top: 10px;
+  background: url(asset_path("background.jpg"));
+  background-size: 70px;
+  background-repeat: repeat-x;
+
 }
 
 #content {
