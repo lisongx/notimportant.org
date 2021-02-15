@@ -60,7 +60,7 @@ layout: intro
 <section class="news">
   <ul>
     <li>
-      London based experimental music collective SubPhonics present their first radio show on
+      London based experimental music collective SubPhonics presented their first radio show on
       <a href="http://extra.resonance.fm/episodes/subphonics-number-1-foreword" target="_blank">
         Resonance EXTRA
       </a>
