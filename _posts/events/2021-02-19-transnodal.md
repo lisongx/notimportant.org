@@ -1,10 +1,10 @@
 ---
 layout: event
 title: TOPLAP Transnodal livecode stream
-description:  "the debut of the new network music Ensemble [ _  _  _ ] (Li Song, Jia Liu, and Shuoxin Tan)"
+description:  "the debut live coding pefromance of the new group [ _  _  _ ] (Li Song, Jia Liu, and Shuoxin Tan)"
 time: 2021-02-19 21:00:00 +0
 endtime: 2021-02-19 21:20:00 +0
-venue: Internet
+venue: TOPLAP
 location: TOPLAP
 category: event
 city: internet
