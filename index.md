@@ -60,18 +60,18 @@ layout: intro
 <section class="news">
   <ul>
     <li>
-      <a href="https://zoominnight.bandcamp.com/album/voices-from-green-pines" target="_blank">
-        Voices from Green Pines
-      </a> curated by Zhu Wenbo released in cassette and digital via bandcamp
+      London based experimental music collective SubPhonics present their first radio show on
+      <a href="http://extra.resonance.fm/episodes/subphonics-number-1-foreword" target="_blank">
+        Resonance EXTRA
+      </a>
     </li>
   </ul>
 
   <ul>
     <li>
-      New track
-      <a href="https://algorave-tokyo.bandcamp.com/track/pulse-23" target="_blank">
-      Pulse 23
-      </a> included in Compassion through Algorithms
+      <a href="https://zoominnight.bandcamp.com/album/voices-from-green-pines" target="_blank">
+        Voices from Green Pines
+      </a> curated by Zhu Wenbo released in cassette and digital via bandcamp
     </li>
   </ul>
 
