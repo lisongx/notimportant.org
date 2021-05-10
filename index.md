@@ -57,8 +57,6 @@ layout: intro
 
 ### News
 
-No Performance is back with a new cassette release. (Our last event is maybe autumn 2018 at Fruityspace ? ) Seven text based composition by me and Zhu Wenbo, played by friends and ourselves in both Beijing and London.
-
 <section class="news">
   <ul>
     <li>
