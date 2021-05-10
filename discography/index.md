@@ -4,6 +4,10 @@ title: Discography
 ---
 # Discography
 
+## 2021
+
+* No performance: [Text](https://zoominnight.bandcamp.com/album/text)
+
 ## 2020
 
 * Aoi Tagami, Li Song, Xiang: [Voices from Green Pines](https://zoominnight.bandcamp.com/album/voices-from-green-pines)

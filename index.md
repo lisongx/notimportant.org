@@ -57,23 +57,18 @@ layout: intro
 
 ### News
 
+No Performance is back with a new cassette release. (Our last event is maybe autumn 2018 at Fruityspace ? ) Seven text based composition by me and Zhu Wenbo, played by friends and ourselves in both Beijing and London.
+
 <section class="news">
   <ul>
     <li>
-      London based experimental music collective SubPhonics presented their first radio show on
+      No Performance (<a href="https://zhuwenbo.bandcamp.com/" target="_blank">Zhu Wenbo</a> and Li Song) is back with a new cassette release:
       <a href="http://extra.resonance.fm/episodes/subphonics-number-1-foreword" target="_blank">
-        Resonance EXTRA
-      </a>
+        Text
+      </a>. 7 text based composition played with ourselves and friends Liu Lu, Ma Jin, Lodliet Wang, Fu Shixin, Liang Yongping and Chengyun. Master by Hiroyuki Ura.
     </li>
   </ul>
 
-  <ul>
-    <li>
-      <a href="https://zoominnight.bandcamp.com/album/voices-from-green-pines" target="_blank">
-        Voices from Green Pines
-      </a> curated by Zhu Wenbo released in cassette and digital via bandcamp
-    </li>
-  </ul>
 
 </section>
 
