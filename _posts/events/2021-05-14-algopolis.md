@@ -8,5 +8,5 @@ venue: Ljudmila Lab
 location: osmo/za (8th floor), Slovenska 54, Ljubljana
 category: event
 city: Ljubljana and Internet
-link: https://wiki.ljudmila.org/Algopolis_live
+link: https://www.youtube.com/watch?v=kYW9SSRZAvU
 ---
