@@ -61,7 +61,7 @@ layout: intro
   <ul>
     <li>
       No Performance (<a href="https://zhuwenbo.bandcamp.com/" target="_blank">Zhu Wenbo</a> and Li Song) is back with a new cassette release:
-      <a href="http://extra.resonance.fm/episodes/subphonics-number-1-foreword" target="_blank">
+      <a href="https://zoominnight.bandcamp.com/album/text" target="_blank">
         Text
       </a>. 7 text based composition played with ourselves and friends Liu Lu, Ma Jin, Lodliet Wang, Fu Shixin, Liang Yongping and Chengyun. Master by Hiroyuki Ura.
     </li>
