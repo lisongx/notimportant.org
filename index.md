@@ -80,7 +80,6 @@ layout: intro
 
 Hi, my name is Li Song. I’m a [musician](http://notimportant.org/event/oschub-20151207/) and [software engineer][github] based in London. I co-organized [Soundleaks](http://www.soundleaks.org), a sound art/tech event.
 
-Don't hesitate to write to me if you have something to say:
 
 <lisong@notimportant.org>
 
