@@ -60,10 +60,10 @@ layout: intro
 <section class="news">
   <ul>
     <li>
-      No Performance (<a href="https://zhuwenbo.bandcamp.com/" target="_blank">Zhu Wenbo</a> and Li Song) is back with a new cassette release:
-      <a href="https://zoominnight.bandcamp.com/album/text" target="_blank">
-        Text
-      </a>. 7 text based composition played with ourselves and friends Liu Lu, Ma Jin, Lodliet Wang, Fu Shixin, Liang Yongping and Chengyun. Master by Hiroyuki Ura.
+    ZKM Hertz-Lab
+    <a href="https://youtu.be/fyXbSkJ9FCY" target="_blank">
+    live coding episode
+    </a> featuring performance recording of [ _ _ _ ](Shuoxin Tan, Jia Liu und Li Song) and talks between Jia Liu, Patrick Borgeat and Yannick Hofmann.
     </li>
   </ul>
 
