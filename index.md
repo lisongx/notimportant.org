@@ -63,7 +63,7 @@ layout: intro
     ZKM Hertz-Lab
     <a href="https://youtu.be/fyXbSkJ9FCY" target="_blank">
     live coding episode
-    </a> featuring performance recording of [ _ _ _ ](Shuoxin Tan, Jia Liu und Li Song) and talks between Jia Liu, Patrick Borgeat and Yannick Hofmann.
+    </a> featuring performance recording of [ _ _ _ ] (Shuoxin Tan, Jia Liu und Li Song) and talks between Jia Liu, Patrick Borgeat and Yannick Hofmann.
     </li>
   </ul>
 
