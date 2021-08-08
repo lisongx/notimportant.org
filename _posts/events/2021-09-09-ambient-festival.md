@@ -8,5 +8,5 @@ venue: St. Michael
 location: Brüsseler Pl. 13-15, 50674 Köln, Germany
 category: event
 city: cologne
-link: https://ambient-festival.com/ensemble/
+link: https://ambient-festival.com/programm/
 ---
