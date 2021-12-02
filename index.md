@@ -60,10 +60,10 @@ layout: intro
 <section class="news">
   <ul>
     <li>
-    ZKM Hertz-Lab
-    <a href="https://youtu.be/fyXbSkJ9FCY" target="_blank">
-    live coding episode
-    </a> featuring performance recording of [ _ _ _ ] (Shuoxin Tan, Jia Liu und Li Song) and talks between Jia Liu, Patrick Borgeat and Yannick Hofmann.
+    Ensemble [ _ _ _ ] presented one hour of wo of their latest projects of network music performance on Hong Kong Community Radio at 30 Nov 2021, the
+    <a href="https://hkcr.live/shows/--30-11-2021" target="_blank">
+    show
+    </a> is now available to playback on mixcloud.
     </li>
   </ul>
 
