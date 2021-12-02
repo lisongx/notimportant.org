@@ -61,9 +61,9 @@ layout: intro
   <ul>
     <li>
     Ensemble [ _ _ _ ] presented one hour of wo of their latest projects of network music performance on Hong Kong Community Radio at 30 Nov 2021, the
-    <a href="https://hkcr.live/shows/--30-11-2021" target="_blank">
+    <a href="https://soundcloud.com/hkcrlive/30112021a" target="_blank">
     show
-    </a> is now available to playback on mixcloud.
+    </a> is now available to playback on soundcloud.
     </li>
   </ul>
 
