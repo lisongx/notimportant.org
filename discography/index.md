@@ -4,46 +4,37 @@ title: Discography
 ---
 # Discography
 
-## 2021
 
-* Li Song, Maeda Yasuyuki: [Two laptops](https://lisong.bandcamp.com/album/two-laptops)
+* Li Song, Maeda Yasuyuki: [Two laptops](https://lisong.bandcamp.com/album/two-laptops) (Self release; 2020)
 
+* No performance: [Text](https://zoominnight.bandcamp.com/album/text) (Zoomin’ night; 2021)
 
-## 2021
-
-* No performance: [Text](https://zoominnight.bandcamp.com/album/text)
-
-## 2020
-
-* Aoi Tagami, Li Song, Xiang: [Voices from Green Pines](https://zoominnight.bandcamp.com/album/voices-from-green-pines)
-
-* Li Song / Various Artists: [Compassion through Algorithms](https://algorave-tokyo.bandcamp.com/)
-
-* Li Song / Various Artists: [Field Music and Non​-Music for Tian Ye](http://leapleapleap.bandcamp.com/)
-
-## 2017
-
-* Li Song / Various Artists: [there is no music from china](https://zoominnight.bandcamp.com/album/there-is-no-music-from-china)
-
-* No performance, Zhu Wenbo: [2 compositions for ensemble](https://zoominnight.bandcamp.com/album/2-compositions-for-ensemble-bike-okra)
+* Aoi Tagami, Li Song, Xiang: [Voices from Green Pines](https://zoominnight.bandcamp.com/album/voices-from-green-pines) (Zoomin’ night; 2020)
 
 
-## 2016
+* No performance, Zhu Wenbo: [2 compositions for ensemble](https://zoominnight.bandcamp.com/album/2-compositions-for-ensemble-bike-okra) (Zoomin’ night; 2017)
 
-* No performance: [Summer of Store](https://zoominnight.bandcamp.com/album/summer-of-store)
+* No performance: [Summer of Store](https://zoominnight.bandcamp.com/album/summer-of-store) (Zoomin’ night; 2016)
 
-* Li Song, Luodelai, Zhu Wenbo, Andrea Jarales: [活着](https://futuro475.bandcamp.com/releases)
+* Li Song, Luodelai, Zhu Wenbo, Andrea Jarales: [活着](https://futuro475.bandcamp.com/releases) (Self release; 2016)
 
-## 2013
 
-* Kunjinkao / Various Artists: [System Error Vol.2 ](https://music.douban.com/subject/25800978/)
+## Compilation
+
+* Various Artists: [Compassion through Algorithms](https://algorave-tokyo.bandcamp.com/) (Algorave Tokyo; 2021)
+
+* Various Artists: [Field Music and Non​-Music for Tian Ye](http://leapleapleap.bandcamp.com/) (Leap; 2020)
+
+* Various Artists: [there is no music from china](https://zoominnight.bandcamp.com/album/there-is-no-music-from-china) (End of the Alphabet, Zoomin’ Night; 2017)
+
+* Various Artists(Kunjinkao): [System Error Vol.2 ](https://music.douban.com/subject/25800978/) (Sytem Error; 2013)
 
 
 <!-- special empty line here -->
 <br/>
 <hr/>
 
-## Early digital only works
+## Early works
 
 All works below are licensed under [CC-BY](https://creativecommons.org/licenses/by/4.0/) license.
 
