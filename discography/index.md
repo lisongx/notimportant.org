@@ -20,7 +20,7 @@ title: Discography
 
 ## Compilation
 
-* Various Artists: [Compassion through Algorithms](https://algorave-tokyo.bandcamp.com/) (Algorave Tokyo; 2021)
+* Various Artists: [Compassion through Algorithms](https://algorave-tokyo.bandcamp.com/) (Algorave Tokyo; 2020)
 
 * Various Artists: [Field Music and Non​-Music for Tian Ye](http://leapleapleap.bandcamp.com/) (Leap; 2020)
 
