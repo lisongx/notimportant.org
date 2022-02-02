@@ -11,12 +11,11 @@ title: Discography
 
 * Aoi Tagami, Li Song, Xiang: [Voices from Green Pines](https://zoominnight.bandcamp.com/album/voices-from-green-pines) (Zoomin’ night; 2020)
 
-
 * No performance, Zhu Wenbo: [2 compositions for ensemble](https://zoominnight.bandcamp.com/album/2-compositions-for-ensemble-bike-okra) (Zoomin’ night; 2017)
 
 * No performance: [Summer of Store](https://zoominnight.bandcamp.com/album/summer-of-store) (Zoomin’ night; 2016)
 
-* Li Song, Luodelai, Zhu Wenbo, Andrea Jarales: [活着](https://futuro475.bandcamp.com/releases) (Self release; 2016)
+* Li Song, Luodelai, Zhu Wenbo, Andrea Jarales: [Futuro 活着](https://futuro475.bandcamp.com/releases) (Self release; 2016)
 
 
 ## Compilation
