@@ -6,6 +6,11 @@ title: Discography
 
 ## 2021
 
+* Li Song, Maeda Yasuyuki: [Two laptops](https://lisong.bandcamp.com/album/two-laptops)
+
+
+## 2021
+
 * No performance: [Text](https://zoominnight.bandcamp.com/album/text)
 
 ## 2020
@@ -20,14 +25,14 @@ title: Discography
 
 * Li Song / Various Artists: [there is no music from china](https://zoominnight.bandcamp.com/album/there-is-no-music-from-china)
 
-* No performance / Zhu Wenbo: [2 compositions for ensemble](https://zoominnight.bandcamp.com/album/2-compositions-for-ensemble-bike-okra)
+* No performance, Zhu Wenbo: [2 compositions for ensemble](https://zoominnight.bandcamp.com/album/2-compositions-for-ensemble-bike-okra)
 
 
 ## 2016
 
 * No performance: [Summer of Store](https://zoominnight.bandcamp.com/album/summer-of-store)
 
-* Li Song / Luodelai / Zhu Wenbo / Andrea Jarales: [活着](https://futuro475.bandcamp.com/releases)
+* Li Song, Luodelai, Zhu Wenbo, Andrea Jarales: [活着](https://futuro475.bandcamp.com/releases)
 
 ## 2013
 
