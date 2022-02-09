@@ -60,10 +60,10 @@ layout: intro
 <section class="news">
   <ul>
     <li>
-    Ensemble [ _ _ _ ] presented two of their latest projects of network music performance on Hong Kong Community Radio at 30 Nov 2021, the
-    <a href="https://soundcloud.com/hkcrlive/30112021a" target="_blank">
-    show
-    </a> is now available to playback on soundcloud.
+    Feb 2022, my new radio mix with Ju Canon on her RTM.FM adio show
+      <a href="https://www.mixcloud.com/RTM_FM/glazier-ju-canon-li-song-030222/" target="_blank">
+        Glazier
+      </a>
     </li>
   </ul>
 
