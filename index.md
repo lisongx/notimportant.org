@@ -60,7 +60,7 @@ layout: intro
 <section class="news">
   <ul>
     <li>
-    Feb 2022, my new radio mix with Ju Canon on her RTM.FM adio show
+    Feb 2022, my new radio mix with Ju Canon on the RTM.FM adio show
       <a href="https://www.mixcloud.com/RTM_FM/glazier-ju-canon-li-song-030222/" target="_blank">
         Glazier
       </a>
