@@ -20,6 +20,9 @@ title: Discography
 
 ## Compilation
 
+* Various Artists(Zhu Wenbo, Li Song, Yan Jun): [Navel​-​Gazing II](https://navelgazers.bandcamp.com/track/blue-square-he-said) (Navel-Gazers; 2021)
+
+
 * Various Artists: [Compassion through Algorithms](https://algorave-tokyo.bandcamp.com/) (Algorave Tokyo; 2020)
 
 * Various Artists: [Field Music and Non​-Music for Tian Ye](http://leapleapleap.bandcamp.com/) (Leap; 2020)
