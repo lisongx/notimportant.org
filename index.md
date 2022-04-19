@@ -71,17 +71,13 @@ layout: intro
 </section>
 
 <figure class="me">
-  <img src="{% asset_path profile_by_zhaocong.jpg %}" alt="Li Song" width="350"/>
+  <img src="{% asset_path profile_by_andrej.jpg %}" alt="Li Song" width="100%"/>
 
   <figcaption>
-    Photo by <a href="https://site.douban.com/zhaocong/">Zhao Cong</a>
+    Photo by <a href="https://www.instagram.com/andrejchudy/">Andrej Chudý</a>
   </figcaption>
 </figure>
 
-Hi, my name is Li Song. I’m a [musician](http://notimportant.org/event/oschub-20151207/) and [software engineer][github] based in London. I co-organized [Soundleaks](http://www.soundleaks.org), a sound art/tech event.
-
-
-<lisong@notimportant.org>
 
 [github]: http://github.com/lisongx
 [email]: mailto:lisong@notimportant.com✈️
