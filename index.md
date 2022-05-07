@@ -57,7 +57,7 @@ layout: intro
 
 ### News
 
-<section class="news">
+<!-- <section class="news">
   <ul>
     <li>
     Feb 2022, my new radio mix with Ju Canon on the RTM.FM adio show
@@ -68,7 +68,7 @@ layout: intro
   </ul>
 
 
-</section>
+</section> -->
 
 <figure class="me">
   <img src="{% asset_path profile_by_andrej.jpg %}" alt="Li Song" width="100%"/>
