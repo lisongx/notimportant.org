@@ -55,7 +55,7 @@ layout: intro
   </ol>
 </section>
 
-### News
+<!-- ### News -->
 
 <!-- <section class="news">
   <ul>
