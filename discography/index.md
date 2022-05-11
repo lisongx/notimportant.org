@@ -2,8 +2,7 @@
 layout: default
 title: Discography
 ---
-# Discography
-
+# Releases
 
 * Li Song, Maeda Yasuyuki: [Two laptops](https://lisong.bandcamp.com/album/two-laptops) (Self release, Karma Detonation Tapes; 2022)
 
