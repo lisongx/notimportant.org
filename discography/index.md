@@ -4,6 +4,9 @@ title: Discography
 ---
 # Releases
 
+* Li Song: [Two Snare Drums](https://infanttree.bandcamp.com/album/two-snare-drums) (Infant Tree; 2022)
+
+
 * Li Song, Maeda Yasuyuki: [Two laptops](https://lisong.bandcamp.com/album/two-laptops) (Self release, Karma Detonation Tapes; 2022)
 
 * No performance: [Text](https://zoominnight.bandcamp.com/album/text) (Zoomin’ night; 2021)
