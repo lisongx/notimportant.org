@@ -4,6 +4,8 @@ title: Discography
 ---
 # Releases
 
+* Shuoxin Tan / Jia Liu / Li Song: ["[ _ _ _ ]"](https://e---e.bandcamp.com/releases) (SUPERPANG; 2022)
+
 * Li Song: [Two Snare Drums](https://infanttree.bandcamp.com/album/two-snare-drums) (Infant Tree; 2022)
 
 
