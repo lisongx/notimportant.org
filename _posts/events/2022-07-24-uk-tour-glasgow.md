@@ -7,6 +7,6 @@ endtime: 2022-07-24 23:00:00 +0
 venue: La Chunky Studio
 location: 1103 Argyle St, Finnieston, Glasgow G3 8ND
 category: event
-city: leeds
+city: glasgow
 link: https://www.lachunky.com/
 ---
