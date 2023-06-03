@@ -4,6 +4,11 @@ title: Discography
 ---
 # Releases
 
+* Conal Blake / Regan Bowering / Li Song:
+Music for Snare Drums and Portable Speakers](https://infanttree.bandcamp.com/album/music-for-snare-drums-and-portable-speakers) (Infant Tree; 2023)
+
+* Mengting Zhuo / Li Song: [two rooms](https://pressesprecaires.bandcamp.com/album/two-rooms) (presses précaires; 2023)
+
 * Shuoxin Tan / Jia Liu / Li Song: [[ _ _ _ ]](https://e---e.bandcamp.com/releases) (SUPERPANG; 2022)
 
 * Li Song: [Two Snare Drums](https://infanttree.bandcamp.com/album/two-snare-drums) (Infant Tree; 2022)
