@@ -4,6 +4,11 @@ title: Discography
 ---
 # Releases
 
+* Li Song: [
+Computer Works 2013​-​2015](https://lisong.bandcamp.com/album/computer-works-2013-2015) (Self release; 2023)
+
+* Li Song, Maeda Yasuyuki: [28th Dec, Arakawa](https://ftarrilabel.bandcamp.com/album/28th-dec-arakawa) (Ftarri; 2023)
+
 * Conal Blake / Regan Bowering / Li Song:
 [Music for Snare Drums and Portable Speakers](https://infanttree.bandcamp.com/album/music-for-snare-drums-and-portable-speakers) (Infant Tree; 2023)
 
@@ -39,32 +44,3 @@ title: Discography
 * Various Artists: [there is no music from china](https://zoominnight.bandcamp.com/album/there-is-no-music-from-china) (End of the Alphabet, Zoomin’ Night; 2017)
 
 * Various Artists(Kunjinkao): [System Error Vol.2 ](https://music.douban.com/subject/25800978/) (Sytem Error; 2013)
-
-
-<!-- special empty line here -->
-<br/>
-<hr/>
-
-## Early works
-
-All works below are licensed under [CC-BY](https://creativecommons.org/licenses/by/4.0/) license.
-
-### Invented Here, 2015-03
-
-<audio src="{{site.cdn_path}}inventedhere.mp3" controls="">
-</audio>
-
-### Object of Interest, 2014-12
-
-<audio src="{{site.cdn_path}}object_of_interest.mp3" controls="">
-</audio>
-
-### Instance, 2014-10
-
-<audio src="{{site.cdn_path}}instance.mp3" controls="">
-</audio>
-
-### Greed 2013-12
-
-<audio src="{{site.cdn_path}}greed.mp3" controls="">
-</audio>
