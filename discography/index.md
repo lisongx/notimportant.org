@@ -4,6 +4,8 @@ title: Discography
 ---
 # Releases
 
+* Li Song, Zhao Cong, Zhu Wenbo: [3 lines and balloons](https://zoominnight.bandcamp.com/album/3-lines-and-balloons) (Zoomin’ night; 2024)
+
 * Li Song: [
 Computer Works 2013​-​2015](https://lisong.bandcamp.com/album/computer-works-2013-2015) (Self release; 2023)
 
