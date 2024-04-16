@@ -4,6 +4,9 @@ title: Discography
 ---
 # Releases
 
+* Li Song: [Hundreds of Cups, Thousands of Cups, One More Cup](https://lisong.bandcamp.com/album/hundreds-of-cups-thousands-of-cups-one-more-cup) (Self release; 2024)
+
+
 * Li Song, Zhao Cong, Zhu Wenbo: [3 lines and balloons](https://zoominnight.bandcamp.com/album/3-lines-and-balloons) (Zoomin’ night; 2024)
 
 * Li Song: [
@@ -37,7 +40,6 @@ Computer Works 2013​-​2015](https://lisong.bandcamp.com/album/computer-works
 ## Compilation
 
 * Various Artists(Zhu Wenbo, Li Song, Yan Jun): [Navel​-​Gazing II](https://navelgazers.bandcamp.com/track/blue-square-he-said) (Navel-Gazers; 2021)
-
 
 * Various Artists: [Compassion through Algorithms](https://algorave-tokyo.bandcamp.com/) (Algorave Tokyo; 2020)
 
