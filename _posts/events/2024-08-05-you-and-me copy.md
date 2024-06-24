@@ -1,6 +1,6 @@
 ---
 layout: event
-title: "You and Me Music Festival"
+title: "You and Me Music Festival 你和我音乐节"
 description: "No Performance (Zhu Wenbo, Li Song)"
 time: 2024-08-04 12:00:00 +8
 endtime: 2024-08-04 12:00:00 +8
