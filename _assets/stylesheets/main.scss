@@ -1,4 +1,4 @@
-$main-font: 'Noticia Text';
+$main-font: "Noticia Text";
 
 ::selection {
   background: red;
@@ -69,7 +69,6 @@ article {
   }
 
   &.event {
-
     h2 {
       font-size: 16px;
     }
@@ -91,10 +90,8 @@ article {
         color: lighten(#222, 20);
         font-family: helvetica;
       }
-
     }
   }
-
 }
 
 #container {
@@ -108,7 +105,7 @@ header li {
 }
 
 header h1 a:hover {
-  color: #EE6348;
+  color: #ee6348;
   text-decoration: none;
 }
 
@@ -118,7 +115,7 @@ header h1 a:hover {
 
 /*nav*/
 nav {
-  border-top: 1px solid #CCC;
+  border-top: 1px solid #ccc;
   padding: 0.5em 0;
 }
 
@@ -128,7 +125,7 @@ nav li {
 
 /*links*/
 a {
-  color: #D05A6E;
+  color: #d05a6e;
   text-decoration: none;
 }
 a:visited {
@@ -144,8 +141,7 @@ a:hover {
 
 /*footer*/
 footer {
-
-  border-top: 1px solid #CCC;
+  border-top: 1px solid #ccc;
   clear: both;
   margin: 5px 0;
   text-align: center;
@@ -158,25 +154,25 @@ footer {
   a {
     color: #777;
 
-    &:hover, &:visited {
+    &:hover,
+    &:visited {
       text-decoration: underline;
       color: #777;
     }
   }
-
 }
 
 /* posts */
 
 #posts {
   .date {
-    font-family: Monaco, monospace
+    font-family: Monaco, monospace;
   }
 }
 
 .footnotes {
   font-size: 0.75em;
-  color: #5D5D5D;
+  color: #5d5d5d;
 }
 
 /*quote*/
@@ -185,7 +181,7 @@ blockquote {
   color: #333;
   border-left: 4px #ccc solid;
   padding-left: 6px;
-  font-style:italic
+  font-style: italic;
 }
 
 /*code*/
@@ -200,7 +196,8 @@ blockquote {
    border: none;
 }*/
 
-code, pre {
+code,
+pre {
   font-family: Monaco, Andale Mono, Courier New, monospace;
   font-size: 85%;
 }
@@ -228,7 +225,7 @@ pre {
 
 pre code {
   background-color: #fff;
-  color:#737373;
+  color: #737373;
   font-size: 11px;
   padding: 0;
 }
@@ -259,13 +256,12 @@ figure.me {
     }
   }
 
-
   ol {
     margin-top: 20px;
     list-style-type: none;
 
     li:not(:last-child) {
-      padding-bottom: 20px;
+      padding-bottom: 10px;
       border-bottom: 1.5px dashed #bbb;
     }
   }
