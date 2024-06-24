@@ -246,14 +246,23 @@ figure.me {
   font-family: $main-font;
 
   .event {
+    p {
+      margin: 0;
+    }
+
+    .time {
+      margin-bottom: 10px;
+    }
+
     .title {
-      margin: 0 0 2px 0;
+      margin-bottom: 2px;
       font-size: 15px;
     }
 
     .description {
       font-style: italic;
       font-size: 13px;
+      margin-bottom: 2px;
     }
   }
 
@@ -262,7 +271,7 @@ figure.me {
     list-style-type: none;
 
     li:not(:last-child) {
-      padding-bottom: 5px;
+      padding-bottom: 10px;
       border-bottom: 1.5px dashed #bbb;
     }
   }

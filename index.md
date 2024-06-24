@@ -13,7 +13,7 @@ layout: intro
     {% for event in site.data['upcoming_events'] %}
 
       <li class="event">
-        <p>
+        <p class="time">
           <time datetime="{{ event.time | date: date_to_xmlschema}}">
             {{event.time | date: "%b %d, %Y" }}
           </time>
