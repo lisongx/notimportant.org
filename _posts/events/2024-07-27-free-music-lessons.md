@@ -2,8 +2,8 @@
 layout: event
 title: "Free Music Lessons outdoor all-dayer"
 description: ""
-time: 2024-08-04 14:00:00 +0
-endtime: 2024-08-04 14:00:00 +0
+time: 2024-07-27 14:00:00 +0
+endtime: 2024-07-27 14:00:00 +0
 venue: Scott Hall Farm
 location: 53°49'00.3"N 1°32'38.8"W
 category: event
