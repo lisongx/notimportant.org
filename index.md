@@ -39,8 +39,10 @@ layout: intro
 
 
         <p>
-          {% if event.city %}
+          {% if event.city and event.venue %}
             {{ event.venue }}, <b>{{ event.city }}</b>
+          {% elsif event.city %}
+            <b>{{ event.city }}</b>
           {% else %}
             {{ event.venue }}
           {% endif %}
