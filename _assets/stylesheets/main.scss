@@ -247,17 +247,18 @@ figure.me {
 
   .event {
     .title {
+      margin: 0 0 2px 0;
       font-size: 15px;
     }
 
     .description {
       font-style: italic;
-      font-size: 14px;
+      font-size: 13px;
     }
   }
 
   ol {
-    margin-top: 20px;
+    margin-top: 10px;
     list-style-type: none;
 
     li:not(:last-child) {
