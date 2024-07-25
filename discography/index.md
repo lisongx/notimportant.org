@@ -5,7 +5,7 @@ title: Discography
 # Releases
 
 * Conal Blake / Regan Bowering / Li Song:
-[Two Movements](https://feedbackmoves.bandcamp.com/) (Feedback Moves; 2023)
+[Two Movements](https://feedbackmoves.bandcamp.com/album/two-movements) (Feedback Moves; 2023)
 
 * Li Song: [Two Snare Drums on a Table](https://lisong.bandcamp.com/album/two-snare-drums-on-a-table) (Self release; 2024)
 
