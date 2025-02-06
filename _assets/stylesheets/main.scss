@@ -31,10 +31,11 @@ body {
   top: 50px;
   left: 50%;
   transform: translateX(calc(-50% + 200px));
-  width: 500px;
-  height: 500px;
+  width: 100%;
+  max-width: 500px;
+  height: auto;
   background: url(asset_path("home.png"));
-  background-size: 350px;
+  background-size: contain;
   background-position: top 0 right 0;
   background-repeat: no-repeat;
 }
@@ -65,7 +66,8 @@ article {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    max-width: 500px;
+    max-width: 100%;
+    height: auto;
   }
 
   &.event {
@@ -96,7 +98,8 @@ article {
 
 #container {
   margin: 0 auto;
-  width: 700px;
+  width: 90%;
+  max-width: 700px;
 }
 
 /*header*/
@@ -282,4 +285,73 @@ figure.me {
 section.news {
   max-width: 500px;
   margin-left: 40px;
+}
+
+// Add media queries for mobile devices
+@media screen and (max-width: 768px) {
+  body {
+    font-size: 14px;
+    padding: 10px;
+  }
+
+  #home-drawing {
+    position: relative;
+    transform: translateX(-50%);
+    margin-bottom: 20px;
+  }
+
+  article.event {
+    h2 {
+      font-size: 14px;
+    }
+
+    h3 {
+      font-size: 13px;
+    }
+
+    p {
+      font-size: 11px;
+    }
+  }
+
+  pre {
+    padding: 10px;
+    font-size: 10px;
+  }
+
+  code {
+    font-size: 11px;
+  }
+
+  figure.me {
+    float: none;
+    margin: 20px auto;
+    text-align: center;
+
+    img {
+      max-width: 100%;
+      height: auto;
+    }
+  }
+
+  section.news {
+    margin-left: 20px;
+    max-width: 100%;
+  }
+}
+
+// Add smaller screen adjustments
+@media screen and (max-width: 480px) {
+  body {
+    font-size: 13px;
+  }
+
+  nav li {
+    display: block;
+    margin-bottom: 5px;
+  }
+
+  header h1 {
+    font-size: 1.5em;
+  }
 }
