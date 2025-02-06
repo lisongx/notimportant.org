@@ -5,7 +5,7 @@ title: Discography
 # Releases
 
 * Conal Blake / Regan Bowering / Li Song:
-[Two Movements](https://feedbackmoves.bandcamp.com/album/two-movements) (Feedback Moves; 2023)
+[Two Movements](https://feedbackmoves.bandcamp.com/album/two-movements) (Feedback Moves; 2024)
 
 * Li Song: [Two Snare Drums on a Table](https://lisong.bandcamp.com/album/two-snare-drums-on-a-table) (Self release; 2024)
 
@@ -41,7 +41,10 @@ Computer Works 2013​-​2015](https://lisong.bandcamp.com/album/computer-works
 * Li Song, Luodelai, Zhu Wenbo, Andrea Jarales: [Futuro 活着](https://futuro475.bandcamp.com/releases) (Self release; 2016)
 
 
-## Compilation
+## Other collaborations & Compilation
+
+* MAI mai, Li Song, Rory Salter : [MAI mai plays in London](https://infanttree.bandcamp.com/album/mai-mai-plays-in-london) (Infant Tree; 2024)
+
 
 * Various Artists(Zhu Wenbo, Li Song, Yan Jun): [Navel​-​Gazing II](https://navelgazers.bandcamp.com/track/blue-square-he-said) (Navel-Gazers; 2021)
 

@@ -116,6 +116,11 @@ header h1 a:hover {
   margin-left: 10px;
 }
 
+ul,
+ol {
+  padding-left: 3rem;
+}
+
 /*nav*/
 nav {
   border-top: 1px solid #ccc;
@@ -289,6 +294,11 @@ section.news {
 
 // Add media queries for mobile devices
 @media screen and (max-width: 768px) {
+  ul,
+  ol {
+    padding-left: 1rem;
+  }
+
   body {
     font-size: 14px;
     padding: 10px;
