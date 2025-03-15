@@ -43,8 +43,10 @@ Computer Works 2013​-​2015](https://lisong.bandcamp.com/album/computer-works
 
 ## Other collaborations & Compilation
 
-* MAI mai, Li Song, Rory Salter : [MAI mai plays in London](https://infanttree.bandcamp.com/album/mai-mai-plays-in-london) (Infant Tree; 2024)
+* Various Artists: [
+Feedbacking:a number of feedback practices in China](https://whereisthezeitgeisteditingoffice.bandcamp.com/album/feedbacking-a-number-of-feedback-practices-in-china) (whereisthezeitgeist?editing office; 2025)
 
+* MAI mai, Li Song, Rory Salter : [MAI mai plays in London](https://infanttree.bandcamp.com/album/mai-mai-plays-in-london) (Infant Tree; 2024)
 
 * Various Artists(Zhu Wenbo, Li Song, Yan Jun): [Navel​-​Gazing II](https://navelgazers.bandcamp.com/track/blue-square-he-said) (Navel-Gazers; 2021)
 
